@@ -1,0 +1,29 @@
+07:38:25  [studio] starting Wix crawler (crawlers/wix_template_html_assets.py) - mode: crawl
+07:38:27  [studio] output folder: C:\Users\Deepak\Downloads\crawler_studio_V1_resilient_v2\crawler_studio_V1\outputs\wix
+07:38:27  [studio] using 1 listing URL(s) from the page
+07:38:30  === Listing: https://www.wix.com/website/templates?criteria=teacher ===
+07:38:33    detected 6 page(s)
+07:38:33    scanning page 1: https://www.wix.com/website/templates?criteria=teacher
+07:38:38    scanning page 2: https://www.wix.com/website/templates?criteria=teacher&page=2
+07:38:42    scanning page 3: https://www.wix.com/website/templates?criteria=teacher&page=3
+07:38:45    scanning page 4: https://www.wix.com/website/templates?criteria=teacher&page=4
+07:38:47    scanning page 5: https://www.wix.com/website/templates?criteria=teacher&page=5
+07:38:51    scanning page 6: https://www.wix.com/website/templates?criteria=teacher&page=6
+07:38:54    found 72 unique templates for this listing
+07:39:51    saved: C:\Users\Deepak\Downloads\crawler_studio_V1_resilient_v2\crawler_studio_V1\outputs\wix\wh-1226__researcher-cv-minimal | assets: 347 | validation: OK
+07:40:33    saved: C:\Users\Deepak\Downloads\crawler_studio_V1_resilient_v2\crawler_studio_V1\outputs\wix\wh-1458__music-school-creative | assets: 250 | validation: OK
+07:41:26    saved: C:\Users\Deepak\Downloads\crawler_studio_V1_resilient_v2\crawler_studio_V1\outputs\wix\wh-1279__acting-school-uplifting | assets: 293 | validation: OK
+07:42:10    saved: C:\Users\Deepak\Downloads\crawler_studio_V1_resilient_v2\crawler_studio_V1\outputs\wix\wh-1018__digital-artist-edgy | assets: 220 | validation: OK
+07:43:05    saved: C:\Users\Deepak\Downloads\crawler_studio_V1_resilient_v2\crawler_studio_V1\outputs\wix\wh-1243__ai-classes-illustrative | assets: 281 | validation: OK
+07:43:48    saved: C:\Users\Deepak\Downloads\crawler_studio_V1_resilient_v2\crawler_studio_V1\outputs\wix\wh-1242__online-language-school-outline | assets: 228 | validation: OK
+07:44:39    saved: C:\Users\Deepak\Downloads\crawler_studio_V1_resilient_v2\crawler_studio_V1\outputs\wix\wh-1117__online-business-consulting-school-editorial | assets: 259 | validation: OK
+07:45:15    saved: C:\Users\Deepak\Downloads\crawler_studio_V1_resilient_v2\crawler_studio_V1\outputs\wix\2625__tutor | assets: 123 | validation: PARTIAL
+07:45:15    WARNING: inspect offline-validation.txt and asset-manifest.json for misses
+07:45:53    saved: C:\Users\Deepak\Downloads\crawler_studio_V1_resilient_v2\crawler_studio_V1\outputs\wix\4538__music-instructor-clean | assets: 146 | validation: OK
+07:46:32    saved: C:\Users\Deepak\Downloads\crawler_studio_V1_resilient_v2\crawler_studio_V1\outputs\wix\2423__tutor | assets: 130 | validation: PARTIAL
+07:46:32    WARNING: inspect offline-validation.txt and asset-manifest.json for misses
+07:47:07    saved: C:\Users\Deepak\Downloads\crawler_studio_V1_resilient_v2\crawler_studio_V1\outputs\wix\3007__academic-cv | assets: 116 | validation: OK
+07:47:56    saved: C:\Users\Deepak\Downloads\crawler_studio_V1_resilient_v2\crawler_studio_V1\outputs\wix\2628__online-school | assets: 200 | validation: PARTIAL
+07:47:56    WARNING: inspect offline-validation.txt and asset-manifest.json for misses
+07:48:24    saved: C:\Users\Deepak\Downloads\crawler_studio_V1_resilient_v2\crawler_studio_V1\outputs\wix\1905__coaching-professional | assets: 122 | validation: PARTIAL
+07:48:24    WARNING: inspect offline-validation.txt and asset-manifest.json for misses

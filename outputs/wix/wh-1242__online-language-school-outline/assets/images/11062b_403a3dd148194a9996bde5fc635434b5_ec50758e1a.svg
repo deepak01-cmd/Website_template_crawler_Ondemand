@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg data-bbox="20.5 76 160 48" height="200" width="201" viewBox="0 0 201 200" xmlns="http://www.w3.org/2000/svg" data-type="color">
+    <g>
+        <path d="M20.5 76h16v16h-16z" fill="#03512A" data-color="1"/>
+        <path d="M20.5 108h16v16h-16z" fill="#03512A" data-color="1"/>
+        <path d="M52.5 76h16v16h-16z" fill="#03512A" data-color="1"/>
+        <path d="M36.5 92h16v16h-16z" fill="#03512A" data-color="1"/>
+        <path d="M84.5 76h16v16h-16z" fill="#03512A" data-color="1"/>
+        <path d="M52.5 108h16v16h-16z" fill="#03512A" data-color="1"/>
+        <path d="M36.5 76h16v16h-16z" fill="#D3F67F" data-color="2"/>
+        <path d="M68.5 92h16v16h-16z" fill="#03512A" data-color="1"/>
+        <path d="M116.5 76h16v16h-16z" fill="#03512A" data-color="1"/>
+        <path d="M84.5 108h16v16h-16z" fill="#03512A" data-color="1"/>
+        <path d="M68.5 76h16v16h-16z" fill="#D3F67F" data-color="2"/>
+        <path d="M20.5 92h16v16h-16z" fill="#D3F67F" data-color="2"/>
+        <path d="M148.5 76h16v16h-16z" fill="#03512A" data-color="1"/>
+        <path d="M36.5 108h16v16h-16z" fill="#D3F67F" data-color="2"/>
+        <path d="M100.5 76h16v16h-16z" fill="#D3F67F" data-color="2"/>
+        <path d="M100.5 92h16v16h-16z" fill="#03512A" data-color="1"/>
+        <path d="M116.5 108h16v16h-16z" fill="#03512A" data-color="1"/>
+        <path d="M132.5 76h16v16h-16z" fill="#D3F67F" data-color="2"/>
+        <path d="M52.5 92h16v16h-16z" fill="#D3F67F" data-color="2"/>
+        <path d="M164.5 76h16v16h-16z" fill="#D3F67F" data-color="2"/>
+        <path d="M68.5 108h16v16h-16z" fill="#D3F67F" data-color="2"/>
+        <path d="M132.5 92h16v16h-16z" fill="#03512A" data-color="1"/>
+        <path d="M148.5 108h16v16h-16z" fill="#03512A" data-color="1"/>
+        <path d="M84.5 92h16v16h-16z" fill="#D3F67F" data-color="2"/>
+        <path d="M100.5 108h16v16h-16z" fill="#D3F67F" data-color="2"/>
+        <path d="M164.5 92h16v16h-16z" fill="#03512A" data-color="1"/>
+        <path d="M116.5 92h16v16h-16z" fill="#D3F67F" data-color="2"/>
+        <path d="M132.5 108h16v16h-16z" fill="#D3F67F" data-color="2"/>
+        <path d="M148.5 92h16v16h-16z" fill="#D3F67F" data-color="2"/>
+        <path d="M164.5 108h16v16h-16z" fill="#D3F67F" data-color="2"/>
+    </g>
+</svg>

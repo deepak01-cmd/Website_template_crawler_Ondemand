@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg data-bbox="20.5 20 160 160" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 201 200" height="200" width="201" data-type="color">
+    <g>
+        <path fill="#43311F" d="M20.5 126.667h53.333V180H20.5z" data-color="1"/>
+        <path fill="#8487E8" d="M20.5 73.333h53.333v53.334H20.5z" data-color="2"/>
+        <path fill="#43311F" d="M127.167 20H180.5v53.333h-53.333z" data-color="1"/>
+        <path fill="#43311F" d="M20.5 20h53.333v53.333H20.5z" data-color="1"/>
+        <path fill="#8487E8" d="M127.167 73.333H180.5v53.334h-53.333z" data-color="2"/>
+        <path fill="#8487E8" d="M73.833 73.333h53.334V180H73.833z" data-color="2"/>
+        <path fill="#43311F" d="M127.167 126.667H180.5V180h-53.333z" data-color="1"/>
+        <path fill="#8487E8" d="M73.833 20h53.334v53.333H73.833z" data-color="2"/>
+        <path fill="#74611F" d="M73.833 73.333h53.334v53.334H73.833z" data-color="3"/>
+    </g>
+</svg>

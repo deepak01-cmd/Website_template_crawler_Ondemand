@@ -1,0 +1,2 @@
+"use strict";(("u">typeof self?self:this).webpackJsonp__wix_form_app=("u">typeof self?self:this).webpackJsonp__wix_form_app||[]).push([[5440],{99935(e,p,s){s.r(p),s.d(p,{default:()=>r});var t=s(60751),f=s.n(t),l=s(16728),_=s(83281);let r=e=>{let p=l.bh.CONTACTS_SUBSCRIBE;return f().createElement(_.s,{...e,fieldType:p})}}}]);
+//# sourceMappingURL=form-app-contacts-subscribe.chunk.min.js.map

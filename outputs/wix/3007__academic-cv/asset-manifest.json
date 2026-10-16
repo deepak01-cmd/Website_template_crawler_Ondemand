@@ -1,0 +1,862 @@
+{
+  "source_url": "https://www.wix.com/demone2/allie-rogers?experimentsoff=specs.thunderbolt.viewport_hydration_extended_react_18",
+  "asset_count": 116,
+  "assets": [
+    {
+      "url": "https://www.wix.com/favicon.ico",
+      "local": "assets/images/favicon_3fd805aa90.ico",
+      "category": "images",
+      "mime": "image/x-icon",
+      "bytes": 3477
+    },
+    {
+      "url": "https://static.wixstatic.com/media/11062b_6af896994d4a4a8fbf3745727d8161a4~mv2.jpg/v1/crop/x_0,y_5,w_3831,h_4948/fill/w_624,h_806,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Confident%20Portrait.jpg",
+      "local": "assets/images/Confident_Portrait_7c96bac5fc.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 58902
+    },
+    {
+      "url": "https://static.wixstatic.com/media/11062b_6af896994d4a4a8fbf3745727d8161a4~mv2.jpg/v1/crop/x_0,y_5,w_3831,h_4948/fill/w_1248,h_1612,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Confident%20Portrait.jpg",
+      "local": "assets/images/Confident_Portrait_d254e43000.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 58902
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_6b2c2b854bc54ae696a5dc7c11837879~mv2.gif",
+      "local": "assets/images/84770f_6b2c2b854bc54ae696a5dc7c11837879_mv2_781628b61b.gif",
+      "category": "images",
+      "mime": "image/gif",
+      "bytes": 90544
+    },
+    {
+      "url": "https://static.wixstatic.com/media/c837a6_6e38d373140248d48afa015490ac7259~mv2.jpg/v1/fill/w_450,h_601,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Crystal_01.jpg",
+      "local": "assets/images/Crystal_01_0b66be6733.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 14770
+    },
+    {
+      "url": "https://static.wixstatic.com/media/c837a6_6e38d373140248d48afa015490ac7259~mv2.jpg/v1/fill/w_900,h_1202,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Crystal_01.jpg",
+      "local": "assets/images/Crystal_01_722c06cb90.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 14770
+    },
+    {
+      "url": "https://static.wixstatic.com/media/11062b_cbc9128d84c942c78aa4eecc3f810e97~mv2.jpg/v1/fill/w_450,h_601,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Headshot%20Portrait.jpg",
+      "local": "assets/images/Headshot_Portrait_937336ee37.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 23605
+    },
+    {
+      "url": "https://static.wixstatic.com/media/11062b_cbc9128d84c942c78aa4eecc3f810e97~mv2.jpg/v1/fill/w_900,h_1202,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Headshot%20Portrait.jpg",
+      "local": "assets/images/Headshot_Portrait_a11e99c876.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 23605
+    },
+    {
+      "url": "https://static.wixstatic.com/media/c837a6_cb7e30e7243d4cf0ba3f53018b172aae~mv2.gif",
+      "local": "assets/images/c837a6_cb7e30e7243d4cf0ba3f53018b172aae_mv2_55991d4506.gif",
+      "category": "images",
+      "mime": "image/gif",
+      "bytes": 206382
+    },
+    {
+      "url": "https://static.wixstatic.com/media/81af6121f84c41a5b4391d7d37fce12a.png/v1/fill/w_28,h_28,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/81af6121f84c41a5b4391d7d37fce12a.png",
+      "local": "assets/images/81af6121f84c41a5b4391d7d37fce12a_7388d438d0.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 943
+    },
+    {
+      "url": "https://static.wixstatic.com/media/81af6121f84c41a5b4391d7d37fce12a.png/v1/fill/w_56,h_56,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/81af6121f84c41a5b4391d7d37fce12a.png",
+      "local": "assets/images/81af6121f84c41a5b4391d7d37fce12a_58f9d605e8.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 943
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7528824071724d12a3e6c31eee0b40d4.png/v1/fill/w_28,h_28,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/7528824071724d12a3e6c31eee0b40d4.png",
+      "local": "assets/images/7528824071724d12a3e6c31eee0b40d4_5b0b1f6e29.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 881
+    },
+    {
+      "url": "https://static.wixstatic.com/media/7528824071724d12a3e6c31eee0b40d4.png/v1/fill/w_56,h_56,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/7528824071724d12a3e6c31eee0b40d4.png",
+      "local": "assets/images/7528824071724d12a3e6c31eee0b40d4_5874cebd46.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 881
+    },
+    {
+      "url": "https://static.wixstatic.com/media/23fd2a2be53141ed810f4d3dcdcd01fa.png/v1/fill/w_28,h_28,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/23fd2a2be53141ed810f4d3dcdcd01fa.png",
+      "local": "assets/images/23fd2a2be53141ed810f4d3dcdcd01fa_eb6b947093.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 879
+    },
+    {
+      "url": "https://static.wixstatic.com/media/23fd2a2be53141ed810f4d3dcdcd01fa.png/v1/fill/w_56,h_56,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/23fd2a2be53141ed810f4d3dcdcd01fa.png",
+      "local": "assets/images/23fd2a2be53141ed810f4d3dcdcd01fa_2b7ea032dd.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 879
+    },
+    {
+      "url": "https://static.wixstatic.com/media/11062b_1334e6fc91bb42a3bb0aae2d0dec4870~mv2.png/v1/fill/w_28,h_28,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_1334e6fc91bb42a3bb0aae2d0dec4870~mv2.png",
+      "local": "assets/images/11062b_1334e6fc91bb42a3bb0aae2d0dec4870_mv2_05f3eeb080.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 936
+    },
+    {
+      "url": "https://static.wixstatic.com/media/11062b_1334e6fc91bb42a3bb0aae2d0dec4870~mv2.png/v1/fill/w_56,h_56,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_1334e6fc91bb42a3bb0aae2d0dec4870~mv2.png",
+      "local": "assets/images/11062b_1334e6fc91bb42a3bb0aae2d0dec4870_mv2_b735ff160a.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 936
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w10-light.woff2",
+      "local": "assets/fonts/din-next-w10-light_db3db89192.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 15504
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w02-light.woff2",
+      "local": "assets/fonts/din-next-w02-light_6422d8a0d0.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 37024
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w01-light.woff2",
+      "local": "assets/fonts/din-next-w01-light_38f1d0610c.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 20988
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/790166f1-b347-4f16-8a29-f0c4931a7c35/v1/futura-lt-w01-book.woff2",
+      "local": "assets/fonts/futura-lt-w01-book_4119f2fe8d.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 18428
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/8e5b5cbc-6ad9-49f7-aee7-4e5133c3ee4d/v1/futura-lt-w05-light.woff2",
+      "local": "assets/fonts/futura-lt-w05-light_0b7e383d51.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 27056
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/8e5b5cbc-6ad9-49f7-aee7-4e5133c3ee4d/v1/futura-lt-w01-light.woff2",
+      "local": "assets/fonts/futura-lt-w01-light_7531382531.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 18212
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/core-js-bundle@3.2.1/minified.js",
+      "local": "assets/js/minified_cc5dbdbdf6.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 137771
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/focus-within-polyfill@5.0.9/dist/focus-within-polyfill.js",
+      "local": "assets/js/focus-within-polyfill_7429be62a7.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1171
+    },
+    {
+      "url": "https://static.parastorage.com/services/form-app/1.3196.0/client-viewer/form-app-text-area.chunk.min.js",
+      "local": "assets/js/form-app-text-area.chunk.min_d2e288198c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 10920
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/requirejs-bolt@2.3.6/requirejs.min.js",
+      "local": "assets/js/requirejs.min_55885c2319.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 17493
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/wix-image-kit.d06a1127.bundle.min.js",
+      "local": "assets/js/wix-image-kit.d06a1127.bundle.min_f9a78792f2.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 26322
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/htmlparser2-xml.4f17eecc.bundle.min.js",
+      "local": "assets/js/htmlparser2-xml.4f17eecc.bundle.min_131b355975.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 50720
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[SkipToContentButton].d886e6d7.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderbolt_SkipToContentButton_.d886e6d7.bundle.min_9db4d34a75.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2151
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_bootstrap-responsive.1bfc1371.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderbolt_bootstrap-responsive.1bfc1371.bundle.min_9f3b78da46.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 24564
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[SlideShowContainer].128d4d0e.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderbolt_SlideShowContainer_.128d4d0e.bundle.min_1e7f346226.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 24185
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_bootstrap.da83ff7e.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderbolt_bootstrap.da83ff7e.bundle.min_47471e51c3.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 43960
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_bootstrap-classic.d170fd1f.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderbolt_bootstrap-classic.d170fd1f.bundle.min_bac6266ca3.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 43243
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[StripColumnsContainer_Default].119e0578.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderbolt_StripColumnsContainer_Default_.119e0578.bundle.mi_28352d75af.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 13003
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[ClassicSection].95b2f0f2.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderbolt_ClassicSection_.95b2f0f2.bundle.min_7ec0e5ce9c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 16267
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[SlideShowSlide].fb5fc58e.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderbolt_SlideShowSlide_.fb5fc58e.bundle.min_b624ad0c93.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 13284
+    },
+    {
+      "url": "https://static.parastorage.com/services/form-app/1.3196.0/FormViewerWidgetNoCss.bundle.min.js",
+      "local": "assets/js/FormViewerWidgetNoCss.bundle.min_50f58f167c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 875653
+    },
+    {
+      "url": "https://browser.sentry-cdn.com/7.120.3/modulemetadata.es5.min.js",
+      "local": "assets/js/modulemetadata.es5.min_7867333024.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 3323
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/react@18.3.1/umd/react.production.min.js",
+      "local": "assets/js/react.production.min_a3d104366c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 10751
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/react-dom@18.3.1/umd/react-dom.production.min.js",
+      "local": "assets/js/react-dom.production.min_23f284a3a3.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 131835
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/lodash@4.18.1/lodash.min.js",
+      "local": "assets/js/lodash.min_4e41d11c55.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 73234
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.8b9797e3.bundle.min.js",
+      "local": "assets/js/thunderbolt-commons.8b9797e3.bundle.min_74ca23b59a.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 157471
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/main.d63c9ecf.bundle.min.js",
+      "local": "assets/js/main.d63c9ecf.bundle.min_2e59010701.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 230262
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/main.renderer.b325a058.bundle.min.js",
+      "local": "assets/js/main.renderer.b325a058.bundle.min_9f8dedd221.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 150
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/browser-deprecation.bundle.es5.js",
+      "local": "assets/js/browser-deprecation.bundle.es5_80b3562822.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 3828
+    },
+    {
+      "url": "https://static.parastorage.com/services/tag-manager-client/1.1075.0/siteTags.bundle.min.js",
+      "local": "assets/js/siteTags.bundle.min_a2c4f022a5.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 9416
+    },
+    {
+      "url": "https://www.google.co.in/pagead/1p-user-list/18469620531/?random=1792116997430&cv=11&fst=1792116000000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6ae1v9265102319za20ozb6319694zd6319694xecxf1&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938468~118131809~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~121399758&u_w=800&u_h=600&url=https%3A%2F%2Fwww.wix.com%2Fwebsite-template%2Fview%2Fhtml%2F3007%3ForiginUrl%3Dhttps%253A%252F%252Fwww.wix.com%252Fwebsite%252Ftemplates%253Fcriteria%253Dteacher%26esi%3Dec78c316-7072-46d0-96cc-fe965e24c632&rcb=6&frm=0&tiba=Academic%20CV%20Website%20Template%20%7C%20WIX&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=27600521.1792116515&uaa=&uab=&uafvl=&uamb=0&uam=&uap=Windows&uapv=&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS-gEAQM4h3JKxFEfp074_2J86VKsy3hrUkLS6NxP-ubX2IgKTh18LoF9MLxvkDr8_yBQI-5KBWB7h8lJKBfFpgSOGfSO-WtmNTNrHinfzhYAbrrPzrBLwgr9yRU0RNODRdZPWjCgAE1s1r5BdKXXMQaQWFylFs_CwXuxp2TtabT15L5nGPq__L3V9XZK8cWfFkU13esmdyjQIgkV4NP0PhEP71O-juObY1-9svWDWJSodvlBqs6tjpT6hH8db_DyXhI_pE-loCj1ziqRWkqQugNO4Qpb3pwoVi_9NxAF3kCtlkB6HZJnm6f6MUl13cRQ2o1Rq977pC9AJ0PTi&random=2287978325&rmt_tld=1&ipr=y",
+      "local": "assets/images/18469620531_1ce17ed48a.gif",
+      "category": "images",
+      "mime": "image/gif",
+      "bytes": 42
+    },
+    {
+      "url": "https://www.google.com/pagead/1p-user-list/18469620531/?random=1792116997430&cv=11&fst=1792116000000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6ae1v9265102319za20ozb6319694zd6319694xecxf1&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938468~118131809~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~121399758&u_w=800&u_h=600&url=https%3A%2F%2Fwww.wix.com%2Fwebsite-template%2Fview%2Fhtml%2F3007%3ForiginUrl%3Dhttps%253A%252F%252Fwww.wix.com%252Fwebsite%252Ftemplates%253Fcriteria%253Dteacher%26esi%3Dec78c316-7072-46d0-96cc-fe965e24c632&rcb=6&frm=0&tiba=Academic%20CV%20Website%20Template%20%7C%20WIX&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=27600521.1792116515&uaa=&uab=&uafvl=&uamb=0&uam=&uap=Windows&uapv=&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS-gEAQM4h3JKxFEfp074_2J86VKsy3hrUkLS6NxP-ubX2IgKTh18LoF9MLxvkDr8_yBQI-5KBWB7h8lJKBfFpgSOGfSO-WtmNTNrHinfzhYAbrrPzrBLwgr9yRU0RNODRdZPWjCgAE1s1r5BdKXXMQaQWFylFs_CwXuxp2TtabT15L5nGPq__L3V9XZK8cWfFkU13esmdyjQIgkV4NP0PhEP71O-juObY1-9svWDWJSodvlBqs6tjpT6hH8db_DyXhI_pE-loCj1ziqRWkqQugNO4Qpb3pwoVi_9NxAF3kCtlkB6HZJnm6f6MUl13cRQ2o1Rq977pC9AJ0PTi&random=2287978325&rmt_tld=0&ipr=y",
+      "local": "assets/images/18469620531_e143c88f0c.gif",
+      "category": "images",
+      "mime": "image/gif",
+      "bytes": 42
+    },
+    {
+      "url": "https://static.wixstatic.com/shapes/c837a6_78065ec96099417fb22249239e3922e9.svg",
+      "local": "assets/images/c837a6_78065ec96099417fb22249239e3922e9_97df5177e2.svg",
+      "category": "images",
+      "mime": "image/svg+xml",
+      "bytes": 539
+    },
+    {
+      "url": "https://static.wixstatic.com/shapes/11062b_f861414fdb01435ab4f2475f63843a40.svg",
+      "local": "assets/images/11062b_f861414fdb01435ab4f2475f63843a40_7c6e2d9464.svg",
+      "category": "images",
+      "mime": "image/svg+xml",
+      "bytes": 517
+    },
+    {
+      "url": "https://static.wixstatic.com/shapes/c837a6_9df51ddc906348d2ad2cd0e2dbb79e18.svg",
+      "local": "assets/images/c837a6_9df51ddc906348d2ad2cd0e2dbb79e18_f5e557c80d.svg",
+      "category": "images",
+      "mime": "image/svg+xml",
+      "bytes": 456
+    },
+    {
+      "url": "https://static.wixstatic.com/shapes/84770f_526af562670342698dc0b95dc4d79fd0.svg",
+      "local": "assets/images/84770f_526af562670342698dc0b95dc4d79fd0_794ecdc576.svg",
+      "category": "images",
+      "mime": "image/svg+xml",
+      "bytes": 548
+    },
+    {
+      "url": "https://mgln.ai/init",
+      "local": "assets/images/init_0a39a2a150.gif",
+      "category": "images",
+      "mime": "image/gif",
+      "bytes": 43
+    },
+    {
+      "url": "https://www.google.com/pagead/1p-user-list/1041825691/?random=1792116997593&cv=11&fst=1792116000000&bg=ffffff&guid=ON&async=1&gtm=45be6ae1z86319694za20gzb6319694zd6319694xeaxf1&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938468~118131809~118897920~118897930~120385423~120469145~120469153~121246026~121246034~121399758&u_w=800&u_h=600&url=https%3A%2F%2Fwww.wix.com%2Fwebsite-template%2Fview%2Fhtml%2F3007%3ForiginUrl%3Dhttps%253A%252F%252Fwww.wix.com%252Fwebsite%252Ftemplates%253Fcriteria%253Dteacher%26esi%3Dec78c316-7072-46d0-96cc-fe965e24c632&rcb=2&label=FYMYCO-T6gMQm__j8AM&frm=0&tiba=Academic%20CV%20Website%20Template%20%7C%20WIX&userId=null-user-id&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=27600521.1792116515&uaa=&uab=&uafvl=&uamb=0&uam=&uap=Windows&uapv=&uaw=0&_tu=CA&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS-gEAQM4h3L2-oq4VF68X6Imx84Zh-zata9j6S2EN_KrUqnKVlLYlg7q5y7DDRY3yvUNBY3QCMvu6zboXsYHIo9o5Iui4zn2HhSenDEoG1AgqbVv-ibHe_t0x3BuOvBfI1Nd4Dek9Rz38df1wZ3kNl8XKOH3TWs3E2gx9fJAjHgZ2x-jFMuZUjaAHIqc8UP_luXF5c8OZcUuvM9UFzzSXOMPxOIPsgRhwmyHOdmGplhIzNb8FEOLPODxxYbJiC0YH5BcBX-bP-DSQnaf7cPKjX2B3DME2ifDrpPaCUgSkKGY6Ks1xMEgBy_7g7YhaX41ZcEhNMJ8aqBvLWRz1&random=4265735411&rmt_tld=0&ipr=y",
+      "local": "assets/images/1041825691_39d43d7682.gif",
+      "category": "images",
+      "mime": "image/gif",
+      "bytes": 42
+    },
+    {
+      "url": "https://www.google.co.in/pagead/1p-user-list/1041825691/?random=1792116997593&cv=11&fst=1792116000000&bg=ffffff&guid=ON&async=1&gtm=45be6ae1z86319694za20gzb6319694zd6319694xeaxf1&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938468~118131809~118897920~118897930~120385423~120469145~120469153~121246026~121246034~121399758&u_w=800&u_h=600&url=https%3A%2F%2Fwww.wix.com%2Fwebsite-template%2Fview%2Fhtml%2F3007%3ForiginUrl%3Dhttps%253A%252F%252Fwww.wix.com%252Fwebsite%252Ftemplates%253Fcriteria%253Dteacher%26esi%3Dec78c316-7072-46d0-96cc-fe965e24c632&rcb=2&label=FYMYCO-T6gMQm__j8AM&frm=0&tiba=Academic%20CV%20Website%20Template%20%7C%20WIX&userId=null-user-id&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=27600521.1792116515&uaa=&uab=&uafvl=&uamb=0&uam=&uap=Windows&uapv=&uaw=0&_tu=CA&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS-gEAQM4h3L2-oq4VF68X6Imx84Zh-zata9j6S2EN_KrUqnKVlLYlg7q5y7DDRY3yvUNBY3QCMvu6zboXsYHIo9o5Iui4zn2HhSenDEoG1AgqbVv-ibHe_t0x3BuOvBfI1Nd4Dek9Rz38df1wZ3kNl8XKOH3TWs3E2gx9fJAjHgZ2x-jFMuZUjaAHIqc8UP_luXF5c8OZcUuvM9UFzzSXOMPxOIPsgRhwmyHOdmGplhIzNb8FEOLPODxxYbJiC0YH5BcBX-bP-DSQnaf7cPKjX2B3DME2ifDrpPaCUgSkKGY6Ks1xMEgBy_7g7YhaX41ZcEhNMJ8aqBvLWRz1&random=4265735411&rmt_tld=1&ipr=y",
+      "local": "assets/images/1041825691_0e741cb805.gif",
+      "category": "images",
+      "mime": "image/gif",
+      "bytes": 42
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-components-registry.bbe0388d.chunk.min.js",
+      "local": "assets/js/thunderbolt-components-registry.bbe0388d.chunk.min_1f9d512658.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 24272
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_2.c60c4730.chunk.min.js",
+      "local": "assets/js/group_2.c60c4730.chunk.min_0008867856.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 54456
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/assetsLoader.6bffd761.chunk.min.js",
+      "local": "assets/js/assetsLoader.6bffd761.chunk.min_75f038062a.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 6951
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_3.dd33e4a3.chunk.min.js",
+      "local": "assets/js/group_3.dd33e4a3.chunk.min_14b752ab76.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 72300
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/businessLogger.377a70ea.chunk.min.js",
+      "local": "assets/js/businessLogger.377a70ea.chunk.min_dcc6f7e695.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 543
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/consentPolicy.e91bc7e5.chunk.min.js",
+      "local": "assets/js/consentPolicy.e91bc7e5.chunk.min_3a771b903d.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 540
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/domSelectors.1772351a.chunk.min.js",
+      "local": "assets/js/domSelectors.1772351a.chunk.min_080016be64.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1467
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_7.9cd3d937.chunk.min.js",
+      "local": "assets/js/group_7.9cd3d937.chunk.min_a01ff5e23d.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 17169
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/ooi.35dd0965.chunk.min.js",
+      "local": "assets/js/ooi.35dd0965.chunk.min_270c03f831.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 449
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/renderer.e30669d5.chunk.min.js",
+      "local": "assets/js/renderer.e30669d5.chunk.min_10a199c73f.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 13151
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_4.e486b681.chunk.min.js",
+      "local": "assets/js/group_4.e486b681.chunk.min_c5ad2bd4dd.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 40141
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/router.7550ec16.chunk.min.js",
+      "local": "assets/js/router.7550ec16.chunk.min_3cc4078a3d.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2162
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/stores.271cca5b.chunk.min.js",
+      "local": "assets/js/stores.271cca5b.chunk.min_f25e93eeb4.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 6716
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/usedPlatformApis.2fac58dc.chunk.min.js",
+      "local": "assets/js/usedPlatformApis.2fac58dc.chunk.min_f79819c44e.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 691
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/warmupData.8df801a8.chunk.min.js",
+      "local": "assets/js/warmupData.8df801a8.chunk.min_844a47dee8.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 378
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/componentsLoader.037bc6b5.chunk.min.js",
+      "local": "assets/js/componentsLoader.037bc6b5.chunk.min_8ee9bf1d4a.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 543
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/accessibilityBrowserZoom.f43a588a.chunk.min.js",
+      "local": "assets/js/accessibilityBrowserZoom.f43a588a.chunk.min_d66547e40d.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 6355
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/appMonitoring.990fa541.chunk.min.js",
+      "local": "assets/js/appMonitoring.990fa541.chunk.min_f81cfaf0fd.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 21015
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_5.79994512.chunk.min.js",
+      "local": "assets/js/group_5.79994512.chunk.min_4dfd503c22.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 37976
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/contentReflow.3a7544b6.chunk.min.js",
+      "local": "assets/js/contentReflow.3a7544b6.chunk.min_e377cb8e3c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1830
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/cyclicTabbing.fb257bad.chunk.min.js",
+      "local": "assets/js/cyclicTabbing.fb257bad.chunk.min_fde3588f5e.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 767
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/domStore.14823c1f.chunk.min.js",
+      "local": "assets/js/domStore.14823c1f.chunk.min_30a82eab80.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 32165
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_45.c1314395.chunk.min.js",
+      "local": "assets/js/group_45.c1314395.chunk.min_65fd7fb1b2.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 827
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/environmentWixCodeSdk.566c4d0f.chunk.min.js",
+      "local": "assets/js/environmentWixCodeSdk.566c4d0f.chunk.min_a526118280.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 503
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/environment.caa69c37.chunk.min.js",
+      "local": "assets/js/environment.caa69c37.chunk.min_41eb37e520.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 536
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/externalServices.a9aa058b.chunk.min.js",
+      "local": "assets/js/externalServices.a9aa058b.chunk.min_a30c9d0bbc.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2642
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/tslib.inline.0a404b36.chunk.min.js",
+      "local": "assets/js/tslib.inline.0a404b36.chunk.min_484d09994c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 11256
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/mpaNavigation.bd7e02b4.chunk.min.js",
+      "local": "assets/js/mpaNavigation.bd7e02b4.chunk.min_73339b8202.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 7513
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/panorama.a27650b3.chunk.min.js",
+      "local": "assets/js/panorama.a27650b3.chunk.min_9dd4c44bf0.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1020
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_6.5f7b0030.chunk.min.js",
+      "local": "assets/js/group_6.5f7b0030.chunk.min_e973b170a3.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 252702
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/siteMembersWixCodeSdk.143b2c98.chunk.min.js",
+      "local": "assets/js/siteMembersWixCodeSdk.143b2c98.chunk.min_7b4bfc8967.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 32414
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_9.9755c99f.chunk.min.js",
+      "local": "assets/js/group_9.9755c99f.chunk.min_b43141ad99.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 63690
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/siteMembers.b1553e13.chunk.min.js",
+      "local": "assets/js/siteMembers.b1553e13.chunk.min_a0f7d2cb76.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 68665
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/siteScrollBlocker.0d237009.chunk.min.js",
+      "local": "assets/js/siteScrollBlocker.0d237009.chunk.min_8ebe88c6dc.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 480
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/speculationRules.4f220fb0.chunk.min.js",
+      "local": "assets/js/speculationRules.4f220fb0.chunk.min_8b12fa3c23.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1817
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/ssrCache.f7fb72e6.chunk.min.js",
+      "local": "assets/js/ssrCache.f7fb72e6.chunk.min_9f70493d63.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1970
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/platform.a007cd91.chunk.min.js",
+      "local": "assets/js/platform.a007cd91.chunk.min_550c4637c9.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 7407
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/reporter-api.9a0bba7d.chunk.min.js",
+      "local": "assets/js/reporter-api.9a0bba7d.chunk.min_6f96402fa4.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 37312
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_0.b58e75e0.chunk.min.js",
+      "local": "assets/js/group_0.b58e75e0.chunk.min_64e279ac0b.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1131
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/accessibility.e4888b8e.chunk.min.js",
+      "local": "assets/js/accessibility.e4888b8e.chunk.min_b6db17ad78.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1123
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/imagePlaceholder.cfcbba70.chunk.min.js",
+      "local": "assets/js/imagePlaceholder.cfcbba70.chunk.min_512459d8e5.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 754
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/scrollToAnchor.a3fa83b7.chunk.min.js",
+      "local": "assets/js/scrollToAnchor.a3fa83b7.chunk.min_6ee9df3b9b.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 3542
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/windowScroll.94e57fc8.chunk.min.js",
+      "local": "assets/js/windowScroll.94e57fc8.chunk.min_b1199f81a0.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 463
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_27.c4c38b3c.chunk.min.js",
+      "local": "assets/js/group_27.c4c38b3c.chunk.min_9df6e95525.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 741
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_28.517aa7aa.chunk.min.js",
+      "local": "assets/js/group_28.517aa7aa.chunk.min_9b44f14b44.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 676
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/motion.c8984600.chunk.min.js",
+      "local": "assets/js/motion.c8984600.chunk.min_7d2a0efac2.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 139397
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_30.3f1bd6a0.chunk.min.js",
+      "local": "assets/js/group_30.3f1bd6a0.chunk.min_ea934e8e3c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 12267
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/triggersAndReactions.9eecfa2f.chunk.min.js",
+      "local": "assets/js/triggersAndReactions.9eecfa2f.chunk.min_cdd63c63f2.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1271
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/environmentService.28f65978.chunk.min.js",
+      "local": "assets/js/environmentService.28f65978.chunk.min_11be74d283.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2941
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_14.a7e0cdf0.chunk.min.js",
+      "local": "assets/js/group_14.a7e0cdf0.chunk.min_6bdaeac9ba.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 3463
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/animations.5f622044.chunk.min.js",
+      "local": "assets/js/animations.5f622044.chunk.min_559e33b2e0.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 15632
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/animationsWixCodeSdk.9f05a568.chunk.min.js",
+      "local": "assets/js/animationsWixCodeSdk.9f05a568.chunk.min_0d059ea5d1.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1007
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_24.5677d2a9.chunk.min.js",
+      "local": "assets/js/group_24.5677d2a9.chunk.min_5ef39743f4.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 3378
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/pageAnchors.c566b640.chunk.min.js",
+      "local": "assets/js/pageAnchors.c566b640.chunk.min_476dd84a46.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 462
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/protectedPages.686e2c1a.chunk.min.js",
+      "local": "assets/js/protectedPages.686e2c1a.chunk.min_d1c3c190e4.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 5319
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/platformPubsub.d41c28b7.chunk.min.js",
+      "local": "assets/js/platformPubsub.d41c28b7.chunk.min_7b370f03f4.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2023
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/navigation.fd6a4352.chunk.min.js",
+      "local": "assets/js/navigation.fd6a4352.chunk.min_702f06d64c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1386
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_23.7ae110ca.chunk.min.js",
+      "local": "assets/js/group_23.7ae110ca.chunk.min_1c6c9b9aaa.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 3879
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/svgLoader.0b99cad8.chunk.min.js",
+      "local": "assets/js/svgLoader.0b99cad8.chunk.min_59df654b57.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 34376
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/mobileFullScreen.26016b15.chunk.min.js",
+      "local": "assets/js/mobileFullScreen.26016b15.chunk.min_9da32bb17b.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 910
+    }
+  ],
+  "failed": [],
+  "removed_trackers": [],
+  "validation_errors": [],
+  "unresolved_external_dependencies": [],
+  "remote_hosts_mentioned_in_local_js_for_review": [
+    "${a}.${n}",
+    "${e}",
+    "${t}",
+    "4b2ce5406bd227505424cd7bcfc5cba5@o37417.ingest.us.sentry.io",
+    "6bb6d49e06f6033510825a723166ba3c@o37417.ingest.us.sentry.io",
+    "a",
+    "a#б",
+    "a@b",
+    "api.whatsapp.com",
+    "axios-http.com",
+    "baseurl",
+    "bo.wix.com",
+    "en.wikipedia.org",
+    "f31bc3de5f7f4f5290342dccc141bf4d@sentry-next.wixpress.com",
+    "fb.me",
+    "frog.wix.com",
+    "frog.wix.com?${n.join(",
+    "github.com",
+    "greensock.com",
+    "jedwatson.github.io",
+    "localhost",
+    "maps.google.com",
+    "npms.io",
+    "pages.parastorage.com",
+    "panorama.wixapps.net",
+    "reactjs.org",
+    "requirejs.org",
+    "rock.mit-license.org",
+    "sled.wix.dev",
+    "static.parastorage.com",
+    "static.wixstatic.com",
+    "unused.com",
+    "users.wix.com",
+    "www.google.com",
+    "www.wix.com",
+    "www.wixapis.com",
+    "yoursitename.wixsite.com",
+    "тест"
+  ]
+}

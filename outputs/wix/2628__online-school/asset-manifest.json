@@ -1,0 +1,1490 @@
+{
+  "source_url": "https://www.wix.com/demone2/streaming-education?experimentsoff=specs.thunderbolt.viewport_hydration_extended_react_18",
+  "asset_count": 200,
+  "assets": [
+    {
+      "url": "https://www.wix.com/favicon.ico",
+      "local": "assets/images/favicon_3fd805aa90.ico",
+      "category": "images",
+      "mime": "image/x-icon",
+      "bytes": 3477
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforTextVF_W_Wght.8022447a.woff2",
+      "local": "assets/fonts/WixMadeforTextVF_W_Wght.8022447a_3c55591680.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 40188
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforTextItalicVF_W_Wght.54ac8fe3.woff2",
+      "local": "assets/fonts/WixMadeforTextItalicVF_W_Wght.54ac8fe3_cf3b019c1c.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 28068
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforText_W_Rg.5a5798be.woff2",
+      "local": "assets/fonts/WixMadeforText_W_Rg.5a5798be_889c4f35ab.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 21256
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforText_W_Rg.1a0ca11a.woff",
+      "local": "assets/fonts/WixMadeforText_W_Rg.1a0ca11a_c23ef73440.woff",
+      "category": "fonts",
+      "mime": "font/woff",
+      "bytes": 26104
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforText_Rg.c16c286e.ttf",
+      "local": "assets/fonts/WixMadeforText_Rg.c16c286e_ed78cbfb73.ttf",
+      "category": "fonts",
+      "mime": "font/ttf",
+      "bytes": 114076
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforText_W_Rg_It.12f3cd9d.woff2",
+      "local": "assets/fonts/WixMadeforText_W_Rg_It.12f3cd9d_a8ef73493f.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 22240
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforText_W_Rg_It.8e17780b.woff",
+      "local": "assets/fonts/WixMadeforText_W_Rg_It.8e17780b_9c8d8b01b3.woff",
+      "category": "fonts",
+      "mime": "font/woff",
+      "bytes": 27412
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforText_It.b0a86715.ttf",
+      "local": "assets/fonts/WixMadeforText_It.b0a86715_3d88324b48.ttf",
+      "category": "fonts",
+      "mime": "font/ttf",
+      "bytes": 71236
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforText_W_Bd.9d07f9d7.woff2",
+      "local": "assets/fonts/WixMadeforText_W_Bd.9d07f9d7_da9aba6fe1.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 22144
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforText_W_Bd.1b77caba.woff",
+      "local": "assets/fonts/WixMadeforText_W_Bd.1b77caba_63f9a1dae7.woff",
+      "category": "fonts",
+      "mime": "font/woff",
+      "bytes": 26940
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforText_Bd.d27ace57.ttf",
+      "local": "assets/fonts/WixMadeforText_Bd.d27ace57_b8930ba003.ttf",
+      "category": "fonts",
+      "mime": "font/ttf",
+      "bytes": 114956
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforText_W_Bd_It.31766fc9.woff2",
+      "local": "assets/fonts/WixMadeforText_W_Bd_It.31766fc9_9fa99e92ce.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 23588
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforText_W_Bd_It.95574030.woff",
+      "local": "assets/fonts/WixMadeforText_W_Bd_It.95574030_3fdbfd4ce2.woff",
+      "category": "fonts",
+      "mime": "font/woff",
+      "bytes": 28692
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforText_BdIt.9aa62c7d.ttf",
+      "local": "assets/fonts/WixMadeforText_BdIt.9aa62c7d_5dc640abdd.ttf",
+      "category": "fonts",
+      "mime": "font/ttf",
+      "bytes": 72528
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforText_W_XBd.bcb42c9a.woff2",
+      "local": "assets/fonts/WixMadeforText_W_XBd.bcb42c9a_831d2100ea.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 22688
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforText_W_XBd.068dbf77.woff",
+      "local": "assets/fonts/WixMadeforText_W_XBd.068dbf77_ad7d74cc2d.woff",
+      "category": "fonts",
+      "mime": "font/woff",
+      "bytes": 27456
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforText_XBd.9182eef9.ttf",
+      "local": "assets/fonts/WixMadeforText_XBd.9182eef9_228ee492de.ttf",
+      "category": "fonts",
+      "mime": "font/ttf",
+      "bytes": 115144
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforText_W_XBd_It.9d580e0e.woff2",
+      "local": "assets/fonts/WixMadeforText_W_XBd_It.9d580e0e_9f6538b25b.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 23764
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforText_W_XBd_It.631cda9a.woff",
+      "local": "assets/fonts/WixMadeforText_W_XBd_It.631cda9a_32739eda17.woff",
+      "category": "fonts",
+      "mime": "font/woff",
+      "bytes": 28912
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/media/WixMadeforText_XBdIt.e5d9e9bc.ttf",
+      "local": "assets/fonts/WixMadeforText_XBdIt.e5d9e9bc_ecdd681549.ttf",
+      "category": "fonts",
+      "mime": "font/ttf",
+      "bytes": 73328
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/@wix/wix-fonts@1.14.0/madefor.min.css",
+      "local": "assets/css/madefor.min_9d8255170a.css",
+      "category": "css",
+      "mime": "text/css",
+      "bytes": 2576
+    },
+    {
+      "url": "https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png/v1/fill/w_22,h_22,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0fdef751204647a3bbd7eaa2827ed4f9.png",
+      "local": "assets/images/0fdef751204647a3bbd7eaa2827ed4f9_18eb96b953.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 594
+    },
+    {
+      "url": "https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png/v1/fill/w_44,h_44,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0fdef751204647a3bbd7eaa2827ed4f9.png",
+      "local": "assets/images/0fdef751204647a3bbd7eaa2827ed4f9_fe46497677.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 594
+    },
+    {
+      "url": "https://static.wixstatic.com/media/c7d035ba85f6486680c2facedecdcf4d.png/v1/fill/w_22,h_22,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/c7d035ba85f6486680c2facedecdcf4d.png",
+      "local": "assets/images/c7d035ba85f6486680c2facedecdcf4d_428cd98f1e.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 646
+    },
+    {
+      "url": "https://static.wixstatic.com/media/c7d035ba85f6486680c2facedecdcf4d.png/v1/fill/w_44,h_44,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/c7d035ba85f6486680c2facedecdcf4d.png",
+      "local": "assets/images/c7d035ba85f6486680c2facedecdcf4d_c85c4ddf43.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 646
+    },
+    {
+      "url": "https://static.wixstatic.com/media/78aa2057f0cb42fbbaffcbc36280a64a.png/v1/fill/w_22,h_22,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/78aa2057f0cb42fbbaffcbc36280a64a.png",
+      "local": "assets/images/78aa2057f0cb42fbbaffcbc36280a64a_54b8eefa30.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 609
+    },
+    {
+      "url": "https://static.wixstatic.com/media/78aa2057f0cb42fbbaffcbc36280a64a.png/v1/fill/w_44,h_44,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/78aa2057f0cb42fbbaffcbc36280a64a.png",
+      "local": "assets/images/78aa2057f0cb42fbbaffcbc36280a64a_760d10b91d.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 609
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_2266bcb0803e46b8b31783e921dcfc5c~mv2.jpg/v1/fill/w_1407,h_589,enc_auto/file.jpeg",
+      "local": "assets/images/file_8e72771436.jpeg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 20457
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_2266bcb0803e46b8b31783e921dcfc5c~mv2.jpg/v1/fill/w_2814,h_1178,enc_auto/file.jpeg",
+      "local": "assets/images/file_dd96cf0a18.jpeg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 20457
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_2266bcb0803e46b8b31783e921dcfc5c~mv2.jpg/v1/fill/w_4221,h_1767,enc_auto/file.jpeg",
+      "local": "assets/images/file_7538be0fc5.jpeg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 20457
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_2266bcb0803e46b8b31783e921dcfc5c~mv2.jpg/v1/fill/w_1407,h_589,enc_auto/file.jpeg 1x, https://static.wixstatic.com/media/84770f_2266bcb0803e46b8b31783e921dcfc5c~mv2.jpg/v1/fill/w_2814,h_1178,enc_auto/file.jpeg 2x, https://static.wixstatic.com/media/84770f_2266bcb0803e46b8b31783e921dcfc5c~mv2.jpg/v1/fill/w_4221,h_1767,enc_auto/file.jpeg 3x",
+      "local": "assets/images/file_f7a4b5d076.jpeg_3x",
+      "category": "images",
+      "mime": "image/jpeg",
+      "bytes": 2606309
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_2266bcb0803e46b8b31783e921dcfc5c~mv2.jpg/v1/fill/w_352,h_198,enc_auto/file.jpeg",
+      "local": "assets/images/file_a9a9e56cbb.jpeg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 6857
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_2266bcb0803e46b8b31783e921dcfc5c~mv2.jpg/v1/fill/w_704,h_396,enc_auto/file.jpeg",
+      "local": "assets/images/file_db8c4f3a5c.jpeg",
+      "category": "images",
+      "mime": "image/jpeg",
+      "bytes": 27668
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_2266bcb0803e46b8b31783e921dcfc5c~mv2.jpg/v1/fill/w_1055,h_594,enc_auto/file.jpeg",
+      "local": "assets/images/file_87e80710d2.jpeg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 26400
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_2266bcb0803e46b8b31783e921dcfc5c~mv2.jpg/v1/fill/w_352,h_198,enc_auto/file.jpeg 1x, https://static.wixstatic.com/media/84770f_2266bcb0803e46b8b31783e921dcfc5c~mv2.jpg/v1/fill/w_704,h_396,enc_auto/file.jpeg 2x, https://static.wixstatic.com/media/84770f_2266bcb0803e46b8b31783e921dcfc5c~mv2.jpg/v1/fill/w_1055,h_594,enc_auto/file.jpeg 3x",
+      "local": "assets/images/file_6d51cefda1.jpeg_3x",
+      "category": "images",
+      "mime": "image/jpeg",
+      "bytes": 2606309
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_c8b6c4c924e44def8e38201d654ab610~mv2.jpg/v1/fill/w_352,h_198,enc_auto/file.jpeg",
+      "local": "assets/images/file_7deb7bce0a.jpeg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 8001
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_c8b6c4c924e44def8e38201d654ab610~mv2.jpg/v1/fill/w_704,h_396,enc_auto/file.jpeg",
+      "local": "assets/images/file_d6a870b8b4.jpeg",
+      "category": "images",
+      "mime": "image/jpeg",
+      "bytes": 32878
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_c8b6c4c924e44def8e38201d654ab610~mv2.jpg/v1/fill/w_1055,h_594,enc_auto/file.jpeg",
+      "local": "assets/images/file_a74388af5f.jpeg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 26400
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_c8b6c4c924e44def8e38201d654ab610~mv2.jpg/v1/fill/w_352,h_198,enc_auto/file.jpeg 1x, https://static.wixstatic.com/media/84770f_c8b6c4c924e44def8e38201d654ab610~mv2.jpg/v1/fill/w_704,h_396,enc_auto/file.jpeg 2x, https://static.wixstatic.com/media/84770f_c8b6c4c924e44def8e38201d654ab610~mv2.jpg/v1/fill/w_1055,h_594,enc_auto/file.jpeg 3x",
+      "local": "assets/images/file_79122df0b4.jpeg_3x",
+      "category": "images",
+      "mime": "image/jpeg",
+      "bytes": 3610466
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_ece43a74fd174333ba3108436bbed869~mv2.jpg/v1/fill/w_352,h_198,enc_auto/file.jpeg",
+      "local": "assets/images/file_d97ebd2268.jpeg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 8395
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_ece43a74fd174333ba3108436bbed869~mv2.jpg/v1/fill/w_704,h_396,enc_auto/file.jpeg",
+      "local": "assets/images/file_9abc4f1ca5.jpeg",
+      "category": "images",
+      "mime": "image/jpeg",
+      "bytes": 33115
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_ece43a74fd174333ba3108436bbed869~mv2.jpg/v1/fill/w_1055,h_594,enc_auto/file.jpeg",
+      "local": "assets/images/file_540647b5fe.jpeg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 26400
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_ece43a74fd174333ba3108436bbed869~mv2.jpg/v1/fill/w_352,h_198,enc_auto/file.jpeg 1x, https://static.wixstatic.com/media/84770f_ece43a74fd174333ba3108436bbed869~mv2.jpg/v1/fill/w_704,h_396,enc_auto/file.jpeg 2x, https://static.wixstatic.com/media/84770f_ece43a74fd174333ba3108436bbed869~mv2.jpg/v1/fill/w_1055,h_594,enc_auto/file.jpeg 3x",
+      "local": "assets/images/file_1f140a734e.jpeg_3x",
+      "category": "images",
+      "mime": "image/jpeg",
+      "bytes": 3067031
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_68596ad5ea71484ab249e9f912e83252~mv2.jpg/v1/fill/w_352,h_198,enc_auto/file.jpeg",
+      "local": "assets/images/file_f4792035a2.jpeg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 14672
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_68596ad5ea71484ab249e9f912e83252~mv2.jpg/v1/fill/w_704,h_396,enc_auto/file.jpeg",
+      "local": "assets/images/file_af70d10364.jpeg",
+      "category": "images",
+      "mime": "image/jpeg",
+      "bytes": 52116
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_68596ad5ea71484ab249e9f912e83252~mv2.jpg/v1/fill/w_1055,h_594,enc_auto/file.jpeg",
+      "local": "assets/images/file_1f8321eada.jpeg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 26400
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_68596ad5ea71484ab249e9f912e83252~mv2.jpg/v1/fill/w_352,h_198,enc_auto/file.jpeg 1x, https://static.wixstatic.com/media/84770f_68596ad5ea71484ab249e9f912e83252~mv2.jpg/v1/fill/w_704,h_396,enc_auto/file.jpeg 2x, https://static.wixstatic.com/media/84770f_68596ad5ea71484ab249e9f912e83252~mv2.jpg/v1/fill/w_1055,h_594,enc_auto/file.jpeg 3x",
+      "local": "assets/images/file_a1cc666ab3.jpeg_3x",
+      "category": "images",
+      "mime": "image/jpeg",
+      "bytes": 3165611
+    },
+    {
+      "url": "https://static.wixstatic.com/media/23fd2a2be53141ed810f4d3dcdcd01fa.png/v1/fill/w_27,h_27,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/23fd2a2be53141ed810f4d3dcdcd01fa.png",
+      "local": "assets/images/23fd2a2be53141ed810f4d3dcdcd01fa_d7c81d05a3.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 919
+    },
+    {
+      "url": "https://static.wixstatic.com/media/23fd2a2be53141ed810f4d3dcdcd01fa.png/v1/fill/w_54,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/23fd2a2be53141ed810f4d3dcdcd01fa.png",
+      "local": "assets/images/23fd2a2be53141ed810f4d3dcdcd01fa_0138933483.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 919
+    },
+    {
+      "url": "https://static.wixstatic.com/media/01ab6619093f45388d66736ec22e5885.png/v1/fill/w_27,h_27,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/01ab6619093f45388d66736ec22e5885.png",
+      "local": "assets/images/01ab6619093f45388d66736ec22e5885_38be4fc829.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 955
+    },
+    {
+      "url": "https://static.wixstatic.com/media/01ab6619093f45388d66736ec22e5885.png/v1/fill/w_54,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/01ab6619093f45388d66736ec22e5885.png",
+      "local": "assets/images/01ab6619093f45388d66736ec22e5885_c9573cdd5a.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 955
+    },
+    {
+      "url": "https://static.wixstatic.com/media/203dcdc2ac8b48de89313f90d2a4cda1.png/v1/fill/w_27,h_27,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/203dcdc2ac8b48de89313f90d2a4cda1.png",
+      "local": "assets/images/203dcdc2ac8b48de89313f90d2a4cda1_f069041aca.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 802
+    },
+    {
+      "url": "https://static.wixstatic.com/media/203dcdc2ac8b48de89313f90d2a4cda1.png/v1/fill/w_54,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/203dcdc2ac8b48de89313f90d2a4cda1.png",
+      "local": "assets/images/203dcdc2ac8b48de89313f90d2a4cda1_6e541fede8.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 802
+    },
+    {
+      "url": "https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/7e90123f-e4a7-4689-b41f-6bcfe331c00a.eot?",
+      "local": "assets/fonts/7e90123f-e4a7-4689-b41f-6bcfe331c00a_37a57a912b.eot",
+      "category": "fonts",
+      "mime": "application/vnd.ms-fontobject",
+      "bytes": 22149
+    },
+    {
+      "url": "https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/64017d81-9430-4cba-8219-8f5cc28b923e.woff2",
+      "local": "assets/fonts/64017d81-9430-4cba-8219-8f5cc28b923e_01639cdac2.woff2",
+      "category": "fonts",
+      "mime": "application/octet-stream",
+      "bytes": 23088
+    },
+    {
+      "url": "https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/e56ecb6d-da41-4bd9-982d-2d295bec9ab0.woff",
+      "local": "assets/fonts/e56ecb6d-da41-4bd9-982d-2d295bec9ab0_fba4bf2031.woff",
+      "category": "fonts",
+      "mime": "application/x-font-woff",
+      "bytes": 30095
+    },
+    {
+      "url": "https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/2aff4f81-3e97-4a83-9e6c-45e33c024796.ttf",
+      "local": "assets/fonts/2aff4f81-3e97-4a83-9e6c-45e33c024796_8fc67743cb.ttf",
+      "category": "fonts",
+      "mime": "application/x-font-ttf",
+      "bytes": 64276
+    },
+    {
+      "url": "https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/ab9cd062-380f-4b53-b1a7-c0bec7402235.svg",
+      "local": "assets/images/ab9cd062-380f-4b53-b1a7-c0bec7402235_a1545f135e.svg",
+      "category": "images",
+      "mime": "image/svg+xml",
+      "bytes": 64961
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/af36905f-3c92-4ef9-b0c1-f91432f16ac1/v1/avenir-lt-w05_35-light.woff2",
+      "local": "assets/fonts/avenir-lt-w05_35-light_09a1198f86.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 24560
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/af36905f-3c92-4ef9-b0c1-f91432f16ac1/v1/avenir-lt-w01_35-light1475496.woff2",
+      "local": "assets/fonts/avenir-lt-w01_35-light1475496_10cc9c0f30.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 17216
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w10-light.woff2",
+      "local": "assets/fonts/din-next-w10-light_db3db89192.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 15504
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w02-light.woff2",
+      "local": "assets/fonts/din-next-w02-light_6422d8a0d0.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 37024
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w01-light.woff2",
+      "local": "assets/fonts/din-next-w01-light_38f1d0610c.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 20988
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6zRmFqWF_ljR.woff2",
+      "local": "assets/fonts/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6zRmFqWF_ljR_80724441bb.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 4516
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojUk7yRZrPJ-M.woff2",
+      "local": "assets/fonts/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojUk7yRZrPJ-M_47c176aa3a.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 4356
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgEM86xRbPQ.woff2",
+      "local": "assets/fonts/nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgEM86xRbPQ_f8c62aeec5.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 4228
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWEe5j5hNKe1_w.woff2",
+      "local": "assets/fonts/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWEe5j5hNKe1_w_2d8a18e258.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 4248
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu4DRmFqWF_ljR.woff2",
+      "local": "assets/fonts/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu4DRmFqWF_ljR_da12b221c7.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 11424
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnohkk7yRZrPJ-M.woff2",
+      "local": "assets/fonts/nuFkD-vYSZviVYUb_rj3ij__anPXDTnohkk7yRZrPJ-M_95fde28bb1.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 10368
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgEM86xRbPQ.woff2",
+      "local": "assets/fonts/nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgEM86xRbPQ_0aa2ea1e09.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 9480
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWoe5j5hNKe1_w.woff2",
+      "local": "assets/fonts/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWoe5j5hNKe1_w_b24415bb53.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 10408
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6jRmFqWF_ljR.woff2",
+      "local": "assets/fonts/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6jRmFqWF_ljR_832046da6c.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 11996
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojEk7yRZrPJ-M.woff2",
+      "local": "assets/fonts/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojEk7yRZrPJ-M_7079f1bb64.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 11424
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgEM86xRbPQ.woff2",
+      "local": "assets/fonts/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgEM86xRbPQ_cd7c87b2e4.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 10180
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWAe5j5hNKe1_w.woff2",
+      "local": "assets/fonts/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWAe5j5hNKe1_w_436ae9b7e1.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 10760
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu5DRmFqWF_g.woff2",
+      "local": "assets/fonts/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu5DRmFqWF_g_fe3d8a067f.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 19072
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7yRZrPA.woff2",
+      "local": "assets/fonts/nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7yRZrPA_69850d4310.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 18152
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgEM86xQ.woff2",
+      "local": "assets/fonts/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgEM86xQ_794fb6bc43.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 16972
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lW4e5j5hNKc.woff2",
+      "local": "assets/fonts/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lW4e5j5hNKc_cb3ba6fa09.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 18436
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v13/n7G4PqJvFP2Kubl0VBLDEA9QP145tN5qB9RQEnC5ftI.woff2",
+      "local": "assets/fonts/n7G4PqJvFP2Kubl0VBLDEA9QP145tN5qB9RQEnC5ftI_6f93ad0400.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 32724
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v13/UC3ZEjagJi85gF9qFaBgIIWMvkC5IXg8PD2cMeMDjBI.woff2",
+      "local": "assets/fonts/UC3ZEjagJi85gF9qFaBgIIWMvkC5IXg8PD2cMeMDjBI_07c0f19fd9.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 32320
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v13/UC3ZEjagJi85gF9qFaBgILxv9TIgpWQaRKdG-_MdlP0.woff2",
+      "local": "assets/fonts/UC3ZEjagJi85gF9qFaBgILxv9TIgpWQaRKdG-_MdlP0_19ed1a8df7.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 31452
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v13/n7G4PqJvFP2Kubl0VBLDEPizZYmr4BUkAcTxjCN2kLE.woff2",
+      "local": "assets/fonts/n7G4PqJvFP2Kubl0VBLDEPizZYmr4BUkAcTxjCN2kLE_4bbd392ab0.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 33916
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/c24fcada-6239-48bc-8b88-9288338191c9/v1/proxima-n-w05-reg.woff2",
+      "local": "assets/fonts/proxima-n-w05-reg_23fa7ce32e.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 82024
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/c24fcada-6239-48bc-8b88-9288338191c9/v1/proxima-n-w01-reg.woff2",
+      "local": "assets/fonts/proxima-n-w01-reg_4a47741f9e.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 23088
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/core-js-bundle@3.2.1/minified.js",
+      "local": "assets/js/minified_cc5dbdbdf6.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 137771
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/focus-within-polyfill@5.0.9/dist/focus-within-polyfill.js",
+      "local": "assets/js/focus-within-polyfill_7429be62a7.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1171
+    },
+    {
+      "url": "https://static.parastorage.com/services/form-app/1.3196.0/client-viewer/1693.chunk.min.js",
+      "local": "assets/js/1693.chunk.min_7e15926d4a.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 27376
+    },
+    {
+      "url": "https://static.parastorage.com/services/form-app/1.3196.0/client-viewer/680.chunk.min.js",
+      "local": "assets/js/680.chunk.min_fb4b20f943.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 5057
+    },
+    {
+      "url": "https://static.parastorage.com/services/form-app/1.3196.0/client-viewer/form-app-header.chunk.min.js",
+      "local": "assets/js/form-app-header.chunk.min_432b70fb22.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 692
+    },
+    {
+      "url": "https://static.parastorage.com/services/form-app/1.3196.0/client-viewer/form-app-wix-ricos-viewer.chunk.min.js",
+      "local": "assets/js/form-app-wix-ricos-viewer.chunk.min_ffb6c3c50e.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 129207
+    },
+    {
+      "url": "https://static.parastorage.com/services/form-app/1.3196.0/client-viewer/6087.chunk.min.js",
+      "local": "assets/js/6087.chunk.min_c36dfa44cd.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 15806
+    },
+    {
+      "url": "https://static.parastorage.com/services/form-app/1.3196.0/client-viewer/form-app-contacts-subscribe.chunk.min.js",
+      "local": "assets/js/form-app-contacts-subscribe.chunk.min_307a55ec3d.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 392
+    },
+    {
+      "url": "https://static.parastorage.com/services/form-app/1.3196.0/client-viewer/form-app-text-area.chunk.min.js",
+      "local": "assets/js/form-app-text-area.chunk.min_d2e288198c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 10920
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/requirejs-bolt@2.3.6/requirejs.min.js",
+      "local": "assets/js/requirejs.min_55885c2319.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 17493
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/wix-image-kit.d06a1127.bundle.min.js",
+      "local": "assets/js/wix-image-kit.d06a1127.bundle.min_f9a78792f2.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 26322
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/htmlparser2-xml.4f17eecc.bundle.min.js",
+      "local": "assets/js/htmlparser2-xml.4f17eecc.bundle.min_131b355975.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 50720
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[SkipToContentButton].d886e6d7.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderbolt_SkipToContentButton_.d886e6d7.bundle.min_9db4d34a75.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2151
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_bootstrap-responsive.1bfc1371.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderbolt_bootstrap-responsive.1bfc1371.bundle.min_9f3b78da46.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 24564
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[MeshGroup].012bc6b1.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderbolt_MeshGroup_.012bc6b1.bundle.min_3dd5d94fd9.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 3224
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[VerticalLine_ClassicVerticalSolidLine].7efee769.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderbolt_VerticalLine_ClassicVerticalSolidLine_.7efee769.b_80684f9520.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 3373
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[Container_DefaultAreaSkin].3eaf4c42.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderbolt_Container_DefaultAreaSkin_.3eaf4c42.bundle.min_1b2c20aecc.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 4953
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[FiveGridLine_SolidLine].76fd72e8.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderbolt_FiveGridLine_SolidLine_.76fd72e8.bundle.min_a797b27342.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2730
+    },
+    {
+      "url": "https://static.parastorage.com/services/form-app/1.3196.0/FormViewerWidgetNoCss.bundle.min.js",
+      "local": "assets/js/FormViewerWidgetNoCss.bundle.min_50f58f167c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 875653
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-vod-widget/1.4657.0/WixVideoViewerWidgetNoCss.bundle.min.js",
+      "local": "assets/js/WixVideoViewerWidgetNoCss.bundle.min_5aa9b5dbd7.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1136534
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_bootstrap.da83ff7e.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderbolt_bootstrap.da83ff7e.bundle.min_47471e51c3.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 43960
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_bootstrap-classic.d170fd1f.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderbolt_bootstrap-classic.d170fd1f.bundle.min_bac6266ca3.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 43243
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[StripColumnsContainer_Default].119e0578.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderbolt_StripColumnsContainer_Default_.119e0578.bundle.mi_28352d75af.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 13003
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[LoginSocialBar].9a9f19e5.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderbolt_LoginSocialBar_.9a9f19e5.bundle.min_fa6f118bce.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 58524
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[ClassicSection].95b2f0f2.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderbolt_ClassicSection_.95b2f0f2.bundle.min_7ec0e5ce9c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 16267
+    },
+    {
+      "url": "https://browser.sentry-cdn.com/7.120.3/modulemetadata.es5.min.js",
+      "local": "assets/js/modulemetadata.es5.min_7867333024.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 3323
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/react@18.3.1/umd/react.production.min.js",
+      "local": "assets/js/react.production.min_a3d104366c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 10751
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/react-dom@18.3.1/umd/react-dom.production.min.js",
+      "local": "assets/js/react-dom.production.min_23f284a3a3.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 131835
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/lodash@4.18.1/lodash.min.js",
+      "local": "assets/js/lodash.min_4e41d11c55.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 73234
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.cd47ac5f.bundle.min.js",
+      "local": "assets/js/thunderbolt-commons.cd47ac5f.bundle.min_78132d45d2.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 157398
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/main.34f6665a.bundle.min.js",
+      "local": "assets/js/main.34f6665a.bundle.min_d65dae7f0c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 230261
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/main.renderer.b325a058.bundle.min.js",
+      "local": "assets/js/main.renderer.b325a058.bundle.min_9f8dedd221.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 150
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/browser-deprecation.bundle.es5.js",
+      "local": "assets/js/browser-deprecation.bundle.es5_80b3562822.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 3828
+    },
+    {
+      "url": "https://static.parastorage.com/services/tag-manager-client/1.1075.0/siteTags.bundle.min.js",
+      "local": "assets/js/siteTags.bundle.min_a2c4f022a5.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 9416
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_30.3f1bd6a0.chunk.min.js",
+      "local": "assets/js/group_30.3f1bd6a0.chunk.min_ea934e8e3c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 12267
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/triggersAndReactions.9eecfa2f.chunk.min.js",
+      "local": "assets/js/triggersAndReactions.9eecfa2f.chunk.min_cdd63c63f2.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1271
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_popup.edc33d2b.min.css",
+      "local": "assets/css/rb_wixui.thunderbolt_popup.edc33d2b.min_018d86cd60.css",
+      "category": "css",
+      "mime": "text/css",
+      "bytes": 3634
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[PopupCloseIconButton].c9b0a0db.min.css",
+      "local": "assets/css/rb_wixui.thunderbolt_PopupCloseIconButton_.c9b0a0db.min_56aa1bc416.css",
+      "category": "css",
+      "mime": "text/css",
+      "bytes": 373
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_popup.1a312c0e.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderbolt_popup.1a312c0e.bundle.min_4051b2f847.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 15218
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[PopupCloseIconButton].755db2f0.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderbolt_PopupCloseIconButton_.755db2f0.bundle.min_8265757825.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 4606
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_2266bcb0803e46b8b31783e921dcfc5c~mv2.jpg/v1/fill/w_1280,h_720,enc_auto/file.jpeg",
+      "local": "assets/images/file_843be1fafc.jpeg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 26400
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_2266bcb0803e46b8b31783e921dcfc5c~mv2.jpg",
+      "local": "assets/images/84770f_2266bcb0803e46b8b31783e921dcfc5c_mv2_4ad7f80bd1.jpg",
+      "category": "images",
+      "mime": "image/jpeg",
+      "bytes": 2606309
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_c8b6c4c924e44def8e38201d654ab610~mv2.jpg",
+      "local": "assets/images/84770f_c8b6c4c924e44def8e38201d654ab610_mv2_30f59969b1.jpg",
+      "category": "images",
+      "mime": "image/jpeg",
+      "bytes": 3610466
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_ece43a74fd174333ba3108436bbed869~mv2.jpg",
+      "local": "assets/images/84770f_ece43a74fd174333ba3108436bbed869_mv2_9d0c8473e7.jpg",
+      "category": "images",
+      "mime": "image/jpeg",
+      "bytes": 3067031
+    },
+    {
+      "url": "https://static.wixstatic.com/media/84770f_68596ad5ea71484ab249e9f912e83252~mv2.jpg",
+      "local": "assets/images/84770f_68596ad5ea71484ab249e9f912e83252_mv2_dd95bf8ad8.jpg",
+      "category": "images",
+      "mime": "image/jpeg",
+      "bytes": 3165611
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-components-registry.bbe0388d.chunk.min.js",
+      "local": "assets/js/thunderbolt-components-registry.bbe0388d.chunk.min_1f9d512658.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 24272
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_2.c60c4730.chunk.min.js",
+      "local": "assets/js/group_2.c60c4730.chunk.min_0008867856.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 54456
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/assetsLoader.6bffd761.chunk.min.js",
+      "local": "assets/js/assetsLoader.6bffd761.chunk.min_75f038062a.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 6951
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_3.dd33e4a3.chunk.min.js",
+      "local": "assets/js/group_3.dd33e4a3.chunk.min_14b752ab76.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 72300
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/businessLogger.377a70ea.chunk.min.js",
+      "local": "assets/js/businessLogger.377a70ea.chunk.min_dcc6f7e695.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 543
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/consentPolicy.e91bc7e5.chunk.min.js",
+      "local": "assets/js/consentPolicy.e91bc7e5.chunk.min_3a771b903d.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 540
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/domSelectors.1772351a.chunk.min.js",
+      "local": "assets/js/domSelectors.1772351a.chunk.min_080016be64.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1467
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_7.9cd3d937.chunk.min.js",
+      "local": "assets/js/group_7.9cd3d937.chunk.min_a01ff5e23d.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 17169
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/ooi.35dd0965.chunk.min.js",
+      "local": "assets/js/ooi.35dd0965.chunk.min_270c03f831.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 449
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/protectedPages.686e2c1a.chunk.min.js",
+      "local": "assets/js/protectedPages.686e2c1a.chunk.min_d1c3c190e4.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 5319
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/renderer.e30669d5.chunk.min.js",
+      "local": "assets/js/renderer.e30669d5.chunk.min_10a199c73f.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 13151
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_4.e486b681.chunk.min.js",
+      "local": "assets/js/group_4.e486b681.chunk.min_c5ad2bd4dd.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 40141
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/router.7550ec16.chunk.min.js",
+      "local": "assets/js/router.7550ec16.chunk.min_3cc4078a3d.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2162
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/stores.271cca5b.chunk.min.js",
+      "local": "assets/js/stores.271cca5b.chunk.min_f25e93eeb4.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 6716
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/usedPlatformApis.2fac58dc.chunk.min.js",
+      "local": "assets/js/usedPlatformApis.2fac58dc.chunk.min_f79819c44e.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 691
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/warmupData.8df801a8.chunk.min.js",
+      "local": "assets/js/warmupData.8df801a8.chunk.min_844a47dee8.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 378
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/componentsLoader.037bc6b5.chunk.min.js",
+      "local": "assets/js/componentsLoader.037bc6b5.chunk.min_8ee9bf1d4a.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 543
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/accessibilityBrowserZoom.69ca8cc9.chunk.min.js",
+      "local": "assets/js/accessibilityBrowserZoom.69ca8cc9.chunk.min_f4f2cd8be8.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 7352
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/appMonitoring.990fa541.chunk.min.js",
+      "local": "assets/js/appMonitoring.990fa541.chunk.min_f81cfaf0fd.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 21015
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_5.79994512.chunk.min.js",
+      "local": "assets/js/group_5.79994512.chunk.min_4dfd503c22.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 37976
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/contentReflow.3a7544b6.chunk.min.js",
+      "local": "assets/js/contentReflow.3a7544b6.chunk.min_e377cb8e3c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1830
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/cyclicTabbing.fb257bad.chunk.min.js",
+      "local": "assets/js/cyclicTabbing.fb257bad.chunk.min_fde3588f5e.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 767
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/domStore.14823c1f.chunk.min.js",
+      "local": "assets/js/domStore.14823c1f.chunk.min_30a82eab80.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 32165
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_45.c1314395.chunk.min.js",
+      "local": "assets/js/group_45.c1314395.chunk.min_65fd7fb1b2.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 827
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/environmentWixCodeSdk.566c4d0f.chunk.min.js",
+      "local": "assets/js/environmentWixCodeSdk.566c4d0f.chunk.min_a526118280.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 503
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/environment.caa69c37.chunk.min.js",
+      "local": "assets/js/environment.caa69c37.chunk.min_41eb37e520.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 536
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/externalServices.a9aa058b.chunk.min.js",
+      "local": "assets/js/externalServices.a9aa058b.chunk.min_a30c9d0bbc.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2642
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_20.6f996b60.chunk.min.js",
+      "local": "assets/js/group_20.6f996b60.chunk.min_024adf56f3.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 8666
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/popups.601233da.chunk.min.js",
+      "local": "assets/js/popups.601233da.chunk.min_5c4573a597.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1388
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/tslib.inline.0a404b36.chunk.min.js",
+      "local": "assets/js/tslib.inline.0a404b36.chunk.min_484d09994c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 11256
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/mpaNavigation.bd7e02b4.chunk.min.js",
+      "local": "assets/js/mpaNavigation.bd7e02b4.chunk.min_73339b8202.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 7513
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/panorama.a27650b3.chunk.min.js",
+      "local": "assets/js/panorama.a27650b3.chunk.min_9dd4c44bf0.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1020
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/routerFetch.0667279b.chunk.min.js",
+      "local": "assets/js/routerFetch.0667279b.chunk.min_0601363c48.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 48843
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_6.5f7b0030.chunk.min.js",
+      "local": "assets/js/group_6.5f7b0030.chunk.min_e973b170a3.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 252702
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/siteMembersWixCodeSdk.143b2c98.chunk.min.js",
+      "local": "assets/js/siteMembersWixCodeSdk.143b2c98.chunk.min_7b4bfc8967.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 32414
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_9.f1ec97ea.chunk.min.js",
+      "local": "assets/js/group_9.f1ec97ea.chunk.min_a4169fe84a.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 63690
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/siteMembers.b1553e13.chunk.min.js",
+      "local": "assets/js/siteMembers.b1553e13.chunk.min_a0f7d2cb76.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 68665
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/siteScrollBlocker.0d237009.chunk.min.js",
+      "local": "assets/js/siteScrollBlocker.0d237009.chunk.min_8ebe88c6dc.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 480
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/speculationRules.59e08197.chunk.min.js",
+      "local": "assets/js/speculationRules.59e08197.chunk.min_3d37f792f5.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1817
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/ssrCache.f7fb72e6.chunk.min.js",
+      "local": "assets/js/ssrCache.f7fb72e6.chunk.min_9f70493d63.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1970
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_22.b6fd6609.chunk.min.js",
+      "local": "assets/js/group_22.b6fd6609.chunk.min_5fa3754fc9.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2551
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/platform.a007cd91.chunk.min.js",
+      "local": "assets/js/platform.a007cd91.chunk.min_550c4637c9.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 7407
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/reporter-api.9a0bba7d.chunk.min.js",
+      "local": "assets/js/reporter-api.9a0bba7d.chunk.min_6f96402fa4.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 37312
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_0.b58e75e0.chunk.min.js",
+      "local": "assets/js/group_0.b58e75e0.chunk.min_64e279ac0b.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1131
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/TPABaseComponent.fa382800.chunk.min.js",
+      "local": "assets/js/TPABaseComponent.fa382800.chunk.min_c7465491b1.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 5019
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/accessibility.e4888b8e.chunk.min.js",
+      "local": "assets/js/accessibility.e4888b8e.chunk.min_b6db17ad78.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1123
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_14.a7e0cdf0.chunk.min.js",
+      "local": "assets/js/group_14.a7e0cdf0.chunk.min_6bdaeac9ba.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 3463
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/animations.5f622044.chunk.min.js",
+      "local": "assets/js/animations.5f622044.chunk.min_559e33b2e0.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 15632
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/animationsWixCodeSdk.9f05a568.chunk.min.js",
+      "local": "assets/js/animationsWixCodeSdk.9f05a568.chunk.min_0d059ea5d1.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1007
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/imagePlaceholder.cfcbba70.chunk.min.js",
+      "local": "assets/js/imagePlaceholder.cfcbba70.chunk.min_512459d8e5.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 754
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/platformPubsub.d41c28b7.chunk.min.js",
+      "local": "assets/js/platformPubsub.d41c28b7.chunk.min_7b370f03f4.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2023
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/navigation.fd6a4352.chunk.min.js",
+      "local": "assets/js/navigation.fd6a4352.chunk.min_702f06d64c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1386
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/scrollToAnchor.a3fa83b7.chunk.min.js",
+      "local": "assets/js/scrollToAnchor.a3fa83b7.chunk.min_6ee9df3b9b.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 3542
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/windowScroll.94e57fc8.chunk.min.js",
+      "local": "assets/js/windowScroll.94e57fc8.chunk.min_b1199f81a0.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 463
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_8.551b56fc.chunk.min.js",
+      "local": "assets/js/group_8.551b56fc.chunk.min_3816f3a49e.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 57741
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/tpa.727b7948.chunk.min.js",
+      "local": "assets/js/tpa.727b7948.chunk.min_f7478563b8.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 7255
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/svgLoader.0b99cad8.chunk.min.js",
+      "local": "assets/js/svgLoader.0b99cad8.chunk.min_59df654b57.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 34376
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_27.c4c38b3c.chunk.min.js",
+      "local": "assets/js/group_27.c4c38b3c.chunk.min_9df6e95525.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 741
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_28.517aa7aa.chunk.min.js",
+      "local": "assets/js/group_28.517aa7aa.chunk.min_9b44f14b44.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 676
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/mobileFullScreen.26016b15.chunk.min.js",
+      "local": "assets/js/mobileFullScreen.26016b15.chunk.min_9da32bb17b.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 910
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/motion.c8984600.chunk.min.js",
+      "local": "assets/js/motion.c8984600.chunk.min_7d2a0efac2.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 139397
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/environmentService.28f65978.chunk.min.js",
+      "local": "assets/js/environmentService.28f65978.chunk.min_11be74d283.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2941
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_32.87a52be9.chunk.min.js",
+      "local": "assets/js/group_32.87a52be9.chunk.min_aeacd11ca4.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 4220
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_24.5677d2a9.chunk.min.js",
+      "local": "assets/js/group_24.5677d2a9.chunk.min_5ef39743f4.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 3378
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/pageAnchors.c566b640.chunk.min.js",
+      "local": "assets/js/pageAnchors.c566b640.chunk.min_476dd84a46.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 462
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_21.cb838eb5.chunk.min.js",
+      "local": "assets/js/group_21.cb838eb5.chunk.min_4d434b74de.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1318
+    },
+    {
+      "url": "https://static.wixstatic.com/shapes/11062b_2b566f244733405faf9e3f2f4fc10be9.svg",
+      "local": "assets/images/11062b_2b566f244733405faf9e3f2f4fc10be9_47bd4cd4b5.svg",
+      "category": "images",
+      "mime": "image/svg+xml",
+      "bytes": 747
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/seo-api.1430007a.chunk.min.js",
+      "local": "assets/js/seo-api.1430007a.chunk.min_cf34c81244.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 94466
+    },
+    {
+      "url": "https://static.parastorage.com/services/form-app/caf0fec3768d141904ed487f51876cd891d2389b01574d5b524075df/client-viewer/wix-ricos-sdk-client.chunk.min.js",
+      "local": "assets/js/wix-ricos-sdk-client.chunk.min_27a827721c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 18258
+    }
+  ],
+  "failed": [],
+  "removed_trackers": [],
+  "validation_errors": [
+    "external iframe dependency (review; may be map/video/form content): https://engage.wixapps.net/chat-widget-server/renderChatWidget/index?pageId=masterPage&compId=comp-ki49pqrh&viewerCompId=comp-ki49pqrh&siteRevision=306&viewMode=site&deviceType=desktop&locale=en&tz=America%2FLos_Angeles&regionalLanguage=en&width=230&height=66&instance=HSq-xb-EB00e-5mkXMEPXN5r58QfRkuoO9o503BtW4E.eyJpbnN0YW5jZUlkIjoiM2Q1ZjhmYjItYmUwNy00MmRiLTlkMDYtMTE4Mjc5NzI5OTU1IiwiYXBwRGVmSWQiOiIxNDUxN2UxYS0zZmYwLWFmOTgtNDA4ZS0yYmQ2OTUzYzM2YTIiLCJtZXRhU2l0ZUlkIjoiNDM4NTIxYjctNDk5NS00ZDUyLWI2NjQtODA1YjMwMTM1NDRiIiwic2lnbkRhdGUiOiIyMDI2LTEwLTE2VDAyOjE3OjE4LjU3N1oiLCJkZW1vTW9kZSI6dHJ1ZSwib3JpZ2luSW5zdGFuY2VJZCI6IjY5Mjk2NDJjLWIxZDctNDM5NS1iNmJjLTk4MzRjODlkZjIzZiIsImFpZCI6ImE2ZDA0MGE3LTg0ZDgtNGRkNS1hZTY2LTc0YWM2N2RiZGIxYyIsImJpVG9rZW4iOiI3ZWRhYWUwNS1mNzkyLTBmODktMmI2Mi05MWQ5NDk2MWNkMWUiLCJzaXRlT3duZXJJZCI6Ijg0NzcwZjY3LWVjYmQtNDRiNi1iMzVhLTU4NGYyZGMxNWFmMSIsInNpdGVJc1RlbXBsYXRlIjp0cnVlLCJicyI6IkdaVE50N2thMG4wTV9PR1JEWmU1ZlBHTjdSWXNIOFlIaVNUY2NjRVc3WEEiLCJzY2QiOiIyMDIwLTA0LTE5VDExOjE2OjAzLjQzMloifQ&currency=USD&currentCurrency=USD&commonConfig=%7B%22brand%22%3A%22wix%22%2C%22host%22%3A%22VIEWER%22%2C%22bsi%22%3A%22e1d534a9-949a-4b66-867a-63064adb8c4c%7C1%22%2C%22siteRevision%22%3A%22306%22%2C%22renderingFlow%22%3A%22NONE%22%2C%22language%22%3A%22en%22%2C%22locale%22%3A%22en-us%22%2C%22BSI%22%3A%22e1d534a9-949a-4b66-867a-63064adb8c4c%7C1%22%7D&currentRoute=.%2F&consent-policy=%7B%22func%22%3A1%2C%22anl%22%3A1%2C%22adv%22%3A0%2C%22dt3%22%3A0%2C%22ess%22%3A1%7D&vsi=c5581b85-a5a2-4a1f-97f0-4dfb453cd21b"
+  ],
+  "unresolved_external_dependencies": [
+    "external iframe dependency (review; may be map/video/form content): https://engage.wixapps.net/chat-widget-server/renderChatWidget/index?pageId=masterPage&compId=comp-ki49pqrh&viewerCompId=comp-ki49pqrh&siteRevision=306&viewMode=site&deviceType=desktop&locale=en&tz=America%2FLos_Angeles&regionalLanguage=en&width=230&height=66&instance=HSq-xb-EB00e-5mkXMEPXN5r58QfRkuoO9o503BtW4E.eyJpbnN0YW5jZUlkIjoiM2Q1ZjhmYjItYmUwNy00MmRiLTlkMDYtMTE4Mjc5NzI5OTU1IiwiYXBwRGVmSWQiOiIxNDUxN2UxYS0zZmYwLWFmOTgtNDA4ZS0yYmQ2OTUzYzM2YTIiLCJtZXRhU2l0ZUlkIjoiNDM4NTIxYjctNDk5NS00ZDUyLWI2NjQtODA1YjMwMTM1NDRiIiwic2lnbkRhdGUiOiIyMDI2LTEwLTE2VDAyOjE3OjE4LjU3N1oiLCJkZW1vTW9kZSI6dHJ1ZSwib3JpZ2luSW5zdGFuY2VJZCI6IjY5Mjk2NDJjLWIxZDctNDM5NS1iNmJjLTk4MzRjODlkZjIzZiIsImFpZCI6ImE2ZDA0MGE3LTg0ZDgtNGRkNS1hZTY2LTc0YWM2N2RiZGIxYyIsImJpVG9rZW4iOiI3ZWRhYWUwNS1mNzkyLTBmODktMmI2Mi05MWQ5NDk2MWNkMWUiLCJzaXRlT3duZXJJZCI6Ijg0NzcwZjY3LWVjYmQtNDRiNi1iMzVhLTU4NGYyZGMxNWFmMSIsInNpdGVJc1RlbXBsYXRlIjp0cnVlLCJicyI6IkdaVE50N2thMG4wTV9PR1JEWmU1ZlBHTjdSWXNIOFlIaVNUY2NjRVc3WEEiLCJzY2QiOiIyMDIwLTA0LTE5VDExOjE2OjAzLjQzMloifQ&currency=USD&currentCurrency=USD&commonConfig=%7B%22brand%22%3A%22wix%22%2C%22host%22%3A%22VIEWER%22%2C%22bsi%22%3A%22e1d534a9-949a-4b66-867a-63064adb8c4c%7C1%22%2C%22siteRevision%22%3A%22306%22%2C%22renderingFlow%22%3A%22NONE%22%2C%22language%22%3A%22en%22%2C%22locale%22%3A%22en-us%22%2C%22BSI%22%3A%22e1d534a9-949a-4b66-867a-63064adb8c4c%7C1%22%7D&currentRoute=.%2F&consent-policy=%7B%22func%22%3A1%2C%22anl%22%3A1%2C%22adv%22%3A0%2C%22dt3%22%3A0%2C%22ess%22%3A1%7D&vsi=c5581b85-a5a2-4a1f-97f0-4dfb453cd21b"
+  ],
+  "remote_hosts_mentioned_in_local_js_for_review": [
+    "${a}",
+    "${a}.${n}",
+    "${e}",
+    "${e}.filesusr.com",
+    "${r}",
+    "${r}.${i}",
+    "${s}",
+    "${t}",
+    "${t}.${r}",
+    "${w?",
+    "133ee563b67f44cbbc509e14152b973f@sentry-next.wixpress.com",
+    "4b2ce5406bd227505424cd7bcfc5cba5@o37417.ingest.us.sentry.io",
+    "6bb6d49e06f6033510825a723166ba3c@o37417.ingest.us.sentry.io",
+    "a",
+    "a#б",
+    "a@b",
+    "api.whatsapp.com",
+    "apis.google.com",
+    "axios-http.com",
+    "baseurl",
+    "bo.wix.com",
+    "connect.facebook.net",
+    "dgs.wixapps.net",
+    "editor.wixapps.net",
+    "embed.wix.com",
+    "en.wikipedia.org",
+    "f31bc3de5f7f4f5290342dccc141bf4d@sentry-next.wixpress.com",
+    "fb.me",
+    "files.wix.com",
+    "frog.wix.com",
+    "frog.wix.com?${n.join(",
+    "github.com",
+    "googleads.g.doubleclick.net",
+    "greensock.com",
+    "images-${r}",
+    "images-vod.wixmp.com",
+    "jedwatson.github.io",
+    "localhost",
+    "manage.wix.com",
+    "maps.google.com",
+    "mths.be",
+    "npms.io",
+    "pages.parastorage.com",
+    "panorama.wixapps.net",
+    "pix.wix.com",
+    "platform.twitter.com",
+    "player.vimeo.com",
+    "reactjs.org",
+    "redux.js.org",
+    "requirejs.org",
+    "rock.mit-license.org",
+    "sled.wix.dev",
+    "static.doubleclick.net",
+    "static.parastorage.com",
+    "static.wixstatic.com",
+    "twitter.com",
+    "unused.com",
+    "users.wix.com",
+    "video.wixstatic.com",
+    "vod-meta.editorx.com",
+    "vod-meta.wix.com",
+    "vod-server.wix.com",
+    "vod.editorx.com",
+    "vod.wix.com",
+    "www.facebook.com",
+    "www.google.com",
+    "www.pinterest.com",
+    "www.tumblr.com",
+    "www.wix.com",
+    "www.wixapis.com",
+    "www.youtube-nocookie.com",
+    "www.youtube.com",
+    "yoursitename.wixsite.com",
+    "тест"
+  ]
+}

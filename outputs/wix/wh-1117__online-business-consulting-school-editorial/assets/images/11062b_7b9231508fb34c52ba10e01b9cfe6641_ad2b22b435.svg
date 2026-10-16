@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg data-bbox="20.63 20.63 158.74 158.74" viewBox="0 0 200 200" height="200" width="200" xmlns="http://www.w3.org/2000/svg" data-type="color">
+    <g>
+        <path fill="#7E55F6" d="M177.659 100v78h-78v-78h78z" data-color="1"/>
+        <path d="M101.26 98.74V20.63H20.63v80.63h78.11v78.11h80.63V98.74h-78.11zm-78.11 0V23.15h75.59v75.59H23.15zm153.7 78.11h-75.59v-75.59h75.591v75.59z" fill="#1D1D1B" data-color="2"/>
+    </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg data-bbox="20 49 160 102" viewBox="0 0 200 200" height="200" width="200" xmlns="http://www.w3.org/2000/svg" data-type="shape">
+    <g>
+        <path d="M180 138.25V151H20v-12.75h160z"/>
+        <path d="M180 49v12.75H20V49h160z"/>
+        <path d="M180 93.625v12.75H20v-12.75h160z"/>
+    </g>
+</svg>

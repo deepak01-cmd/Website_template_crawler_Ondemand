@@ -1,0 +1,12 @@
+{
+  "provider_id": "wix",
+  "provider": "Wix",
+  "urls": [
+    "https://www.wix.com/website/templates?criteria=teacher"
+  ],
+  "output_dir": "C:\\Users\\Deepak\\Downloads\\crawler_studio_V1_resilient_v2\\crawler_studio_V1\\outputs\\wix",
+  "mode": "crawl",
+  "force_refresh": false,
+  "run_id": "20261016_073825",
+  "updated_at": "2026-10-16T07:38:25"
+}

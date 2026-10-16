@@ -1,0 +1,2042 @@
+{
+  "source_url": "https://www.wix.com/demone2/kognita-loom?experimentsoff=specs.thunderbolt.viewport_hydration_extended_react_18",
+  "asset_count": 281,
+  "assets": [
+    {
+      "url": "https://www.wix.com/favicon.ico",
+      "local": "assets/images/favicon_3fd805aa90.ico",
+      "category": "images",
+      "mime": "image/x-icon",
+      "bytes": 3477
+    },
+    {
+      "url": "https://static.wixstatic.com/media/c837a6_9de3b0c78a1c413aab004f4fd4968c79~mv2.png",
+      "local": "assets/images/c837a6_9de3b0c78a1c413aab004f4fd4968c79_mv2_6350e0cb17.png",
+      "category": "images",
+      "mime": "image/png",
+      "bytes": 25577
+    },
+    {
+      "url": "https://video.wixstatic.com/video/c837a6_68ba6ffefd394304902936db72fc236c/1080p/mp4/file.mp4",
+      "local": "assets/other/file_ba3981c472.mp4",
+      "category": "other",
+      "mime": "video/mp4",
+      "bytes": 7673491
+    },
+    {
+      "url": "https://static.wixstatic.com/media/c837a6_68ba6ffefd394304902936db72fc236cf000.jpg/v1/fill/w_965,h_466,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_auto/c837a6_68ba6ffefd394304902936db72fc236cf000.jpg",
+      "local": "assets/images/c837a6_68ba6ffefd394304902936db72fc236cf000_3f549c827d.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 15701
+    },
+    {
+      "url": "https://static.wixstatic.com/media/c837a6_d5e8ef9bba754ac4871404ce69c69933~mv2.jpg/v1/fill/w_322,h_308,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/c837a6_d5e8ef9bba754ac4871404ce69c69933~mv2.jpg",
+      "local": "assets/images/c837a6_d5e8ef9bba754ac4871404ce69c69933_mv2_3babe9136e.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 8217
+    },
+    {
+      "url": "https://static.wixstatic.com/media/c837a6_7c946e14bb6046028862b740a5d96f46~mv2.jpg/v1/fill/w_322,h_308,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/c837a6_7c946e14bb6046028862b740a5d96f46~mv2.jpg",
+      "local": "assets/images/c837a6_7c946e14bb6046028862b740a5d96f46_mv2_c0ddb27872.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 11945
+    },
+    {
+      "url": "https://static.wixstatic.com/media/c837a6_c4dc124f9ad045d2911ace2bf3fcaf27~mv2.jpg/v1/fill/w_322,h_308,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/kl-3641-5120x2880%201%20%5BVectorized%5D.jpg",
+      "local": "assets/images/kl-3641-5120x2880_1_Vectorized__586e08190e.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 6596
+    },
+    {
+      "url": "https://static.wixstatic.com/media/c837a6_3ab58aef3db545b69bcd01bda9607f65~mv2.jpg/v1/fill/w_484,h_800,fp_0.32_0.49,q_85,usm_0.66_1.00_0.01,enc_auto/an-abstract-flat-geometric-illustration-_XMdj22I0TTapCw8544qIBw_V0rN00wzQxSBa9dNw5H6bQ_cov.jpg",
+      "local": "assets/images/an-abstract-flat-geometric-illustration-_XMdj22I0TTapCw8544qIBw_V0rN00_910bf0553c.jpg",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 13363
+    },
+    {
+      "url": "https://static.wixstatic.com/media/c837a6_e3f0ca65c93c40faa41ab3cf74f5c955~mv2.png/v1/fill/w_482,h_308,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_auto/an-abstract-flat-geometric-illustration-_KatHFOR9SG-2tZkpL3fnOg_Ns02rOCPQ4aP5jR9m9IxIQ_cov.png",
+      "local": "assets/images/an-abstract-flat-geometric-illustration-_KatHFOR9SG-2tZkpL3fnOg_Ns02rO_b36644c3ea.png",
+      "category": "images",
+      "mime": "image/avif",
+      "bytes": 12277
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w10-light.woff2",
+      "local": "assets/fonts/din-next-w10-light_db3db89192.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 15504
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w02-light.woff2",
+      "local": "assets/fonts/din-next-w02-light_6422d8a0d0.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 37024
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w01-light.woff2",
+      "local": "assets/fonts/din-next-w01-light_38f1d0610c.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 20988
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/e333842f-0a84-43f9-9ab7-fb1093ba1628/v1/helveticaneuew01-45ligh.other.woff2",
+      "local": "assets/fonts/helveticaneuew01-45ligh.other_a0a3c75af4.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 3268
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/e333842f-0a84-43f9-9ab7-fb1093ba1628/v1/helveticaneuew01-45ligh.latin-ext.woff2",
+      "local": "assets/fonts/helveticaneuew01-45ligh.latin-ext_9be01197c9.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 3600
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/e333842f-0a84-43f9-9ab7-fb1093ba1628/v1/helveticaneuew01-45ligh.latin.woff2",
+      "local": "assets/fonts/helveticaneuew01-45ligh.latin_dfc5d3039b.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 14836
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/7656dffe-e48a-4387-bcf9-cd96060a10ca/v1/helveticaneuew01-65medi.other.woff2",
+      "local": "assets/fonts/helveticaneuew01-65medi.other_b468aba3ad.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 3364
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/7656dffe-e48a-4387-bcf9-cd96060a10ca/v1/helveticaneuew01-65medi.latin-ext.woff2",
+      "local": "assets/fonts/helveticaneuew01-65medi.latin-ext_c923cfc070.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 3608
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/7656dffe-e48a-4387-bcf9-cd96060a10ca/v1/helveticaneuew01-65medi.latin.woff2",
+      "local": "assets/fonts/helveticaneuew01-65medi.latin_34226cfcc6.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 15220
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/bcaffff6-40a1-4827-ace9-c65e93f5fb5f/v1/helveticaneuew02-45ligh.other.woff2",
+      "local": "assets/fonts/helveticaneuew02-45ligh.other_5872b9a384.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 4228
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/bcaffff6-40a1-4827-ace9-c65e93f5fb5f/v1/helveticaneuew02-45ligh.math.woff2",
+      "local": "assets/fonts/helveticaneuew02-45ligh.math_eef3a7b773.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 4144
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/bcaffff6-40a1-4827-ace9-c65e93f5fb5f/v1/helveticaneuew02-45ligh.latin-ext.woff2",
+      "local": "assets/fonts/helveticaneuew02-45ligh.latin-ext_df0a6b8f17.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 10548
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/bcaffff6-40a1-4827-ace9-c65e93f5fb5f/v1/helveticaneuew02-45ligh.latin.woff2",
+      "local": "assets/fonts/helveticaneuew02-45ligh.latin_8df3010027.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 15432
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/767cfde1-9b34-4617-9789-907f19f2ae93/v1/helveticaneuew02-65medi.other.woff2",
+      "local": "assets/fonts/helveticaneuew02-65medi.other_8fa585f53e.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 4240
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/767cfde1-9b34-4617-9789-907f19f2ae93/v1/helveticaneuew02-65medi.math.woff2",
+      "local": "assets/fonts/helveticaneuew02-65medi.math_641ba49a23.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 4128
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/767cfde1-9b34-4617-9789-907f19f2ae93/v1/helveticaneuew02-65medi.latin-ext.woff2",
+      "local": "assets/fonts/helveticaneuew02-65medi.latin-ext_266b09e455.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 10596
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/767cfde1-9b34-4617-9789-907f19f2ae93/v1/helveticaneuew02-65medi.latin.woff2",
+      "local": "assets/fonts/helveticaneuew02-65medi.latin_eac08d0f1c.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 15768
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/68b86ae9-7ca0-48cc-b777-6559005a8f94/v1/helveticaneuew10-45ligh.other.woff2",
+      "local": "assets/fonts/helveticaneuew10-45ligh.other_8171e689e7.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 6548
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/68b86ae9-7ca0-48cc-b777-6559005a8f94/v1/helveticaneuew10-45ligh.math.woff2",
+      "local": "assets/fonts/helveticaneuew10-45ligh.math_a4ec088d07.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 3908
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/68b86ae9-7ca0-48cc-b777-6559005a8f94/v1/helveticaneuew10-45ligh.cyrillic.woff2",
+      "local": "assets/fonts/helveticaneuew10-45ligh.cyrillic_ecfc58aaab.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 9708
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/68b86ae9-7ca0-48cc-b777-6559005a8f94/v1/helveticaneuew10-45ligh.greek.woff2",
+      "local": "assets/fonts/helveticaneuew10-45ligh.greek_8e21343c86.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 7388
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/68b86ae9-7ca0-48cc-b777-6559005a8f94/v1/helveticaneuew10-45ligh.latin-ext.woff2",
+      "local": "assets/fonts/helveticaneuew10-45ligh.latin-ext_6bc62d25c7.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 12148
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/68b86ae9-7ca0-48cc-b777-6559005a8f94/v1/helveticaneuew10-45ligh.latin.woff2",
+      "local": "assets/fonts/helveticaneuew10-45ligh.latin_053a0035c7.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 17084
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/6224d336-6e82-444d-8568-2a9861972c0a/v1/helveticaneuew10-65medi.other.woff2",
+      "local": "assets/fonts/helveticaneuew10-65medi.other_fcfe71904a.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 7156
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/6224d336-6e82-444d-8568-2a9861972c0a/v1/helveticaneuew10-65medi.math.woff2",
+      "local": "assets/fonts/helveticaneuew10-65medi.math_48724394bc.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 3876
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/6224d336-6e82-444d-8568-2a9861972c0a/v1/helveticaneuew10-65medi.cyrillic.woff2",
+      "local": "assets/fonts/helveticaneuew10-65medi.cyrillic_85486f7cbf.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 9788
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/6224d336-6e82-444d-8568-2a9861972c0a/v1/helveticaneuew10-65medi.greek.woff2",
+      "local": "assets/fonts/helveticaneuew10-65medi.greek_84dda080b4.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 7584
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/6224d336-6e82-444d-8568-2a9861972c0a/v1/helveticaneuew10-65medi.latin-ext.woff2",
+      "local": "assets/fonts/helveticaneuew10-65medi.latin-ext_d4cbcb4866.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 12288
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/6224d336-6e82-444d-8568-2a9861972c0a/v1/helveticaneuew10-65medi.latin.woff2",
+      "local": "assets/fonts/helveticaneuew10-65medi.latin_bc5bf28ba4.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 17912
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/26656ec7-c27d-4bdc-a9f4-6b498bbfad69/madefor-display.var.original.woff2",
+      "local": "assets/fonts/madefor-display.var.original_e6b2a4d6df.woff2",
+      "category": "fonts",
+      "mime": "woff2",
+      "bytes": 38900
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/f7531dde-c39a-485c-a204-c09154e8d163/v1/madefor-display-bold.woff2",
+      "local": "assets/fonts/madefor-display-bold_8a91b8d412.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 33364
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/f73e760d-c6b3-4659-9a8c-9ce1d76c1173/madefor-text.var.original.woff2",
+      "local": "assets/fonts/madefor-text.var.original_75f437baba.woff2",
+      "category": "fonts",
+      "mime": "woff2",
+      "bytes": 40188
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/f73e760d-c6b3-4659-9a8c-9ce1d76c1173/v1/madefor-text.woff2",
+      "local": "assets/fonts/madefor-text_44ad76bc65.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 31364
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/19247d19-0454-4de8-b907-b818135794bd/madefor-text.var.original.woff2",
+      "local": "assets/fonts/madefor-text.var.original_78f9fe63be.woff2",
+      "category": "fonts",
+      "mime": "woff2",
+      "bytes": 28068
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/19247d19-0454-4de8-b907-b818135794bd/v1/madefor-text.woff2",
+      "local": "assets/fonts/madefor-text_1ed87b8bfe.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 22332
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/d0521924-fc64-47a2-a857-2cbdc0fad5c8/v1/neue-haas-grotesk-display-pro.other.woff2",
+      "local": "assets/fonts/neue-haas-grotesk-display-pro.other_ba300477ee.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 7396
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/d9d8c7b2-e369-4301-89a8-73dc91d3b435/v1/neue-haas-grotesk-display-pro.other.woff2",
+      "local": "assets/fonts/neue-haas-grotesk-display-pro.other_e66188d56f.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 7328
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/53e2d229-a577-4be1-ab95-07687ab57be1/v1/neue-haas-grotesk-display-pro.other.woff2",
+      "local": "assets/fonts/neue-haas-grotesk-display-pro.other_3a774b5114.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 7056
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/ece0474a-cd15-4fe2-8275-97301e22188b/v1/neue-haas-grotesk-display-pro.other.woff2",
+      "local": "assets/fonts/neue-haas-grotesk-display-pro.other_241ea9c5b5.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 7168
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/29384c45-df1d-4d28-a0c3-3ed95c653ff4/v1/neue-haas-grotesk-display-pro.other.woff2",
+      "local": "assets/fonts/neue-haas-grotesk-display-pro.other_53650071fc.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 7528
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/08c28227-89bc-4d4d-918c-b12a84ed4c47/v1/neue-haas-grotesk-display-pro.other.woff2",
+      "local": "assets/fonts/neue-haas-grotesk-display-pro.other_f330623d90.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 7812
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/d0521924-fc64-47a2-a857-2cbdc0fad5c8/v1/neue-haas-grotesk-display-pro.math.woff2",
+      "local": "assets/fonts/neue-haas-grotesk-display-pro.math_1acdfb274c.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 4212
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/d9d8c7b2-e369-4301-89a8-73dc91d3b435/v1/neue-haas-grotesk-display-pro.math.woff2",
+      "local": "assets/fonts/neue-haas-grotesk-display-pro.math_ff1ac462ac.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 4292
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/53e2d229-a577-4be1-ab95-07687ab57be1/v1/neue-haas-grotesk-display-pro.math.woff2",
+      "local": "assets/fonts/neue-haas-grotesk-display-pro.math_f13845d65b.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 4216
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/ece0474a-cd15-4fe2-8275-97301e22188b/v1/neue-haas-grotesk-display-pro.math.woff2",
+      "local": "assets/fonts/neue-haas-grotesk-display-pro.math_e55d377a1f.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 4244
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/29384c45-df1d-4d28-a0c3-3ed95c653ff4/v1/neue-haas-grotesk-display-pro.math.woff2",
+      "local": "assets/fonts/neue-haas-grotesk-display-pro.math_a322e4be91.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 4188
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/08c28227-89bc-4d4d-918c-b12a84ed4c47/v1/neue-haas-grotesk-display-pro.math.woff2",
+      "local": "assets/fonts/neue-haas-grotesk-display-pro.math_01ce47557a.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 4304
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/d0521924-fc64-47a2-a857-2cbdc0fad5c8/v1/neue-haas-grotesk-display-pro.symbols.woff2",
+      "local": "assets/fonts/neue-haas-grotesk-display-pro.symbols_fc2ba232ec.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 2672
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/d9d8c7b2-e369-4301-89a8-73dc91d3b435/v1/neue-haas-grotesk-display-pro.symbols.woff2",
+      "local": "assets/fonts/neue-haas-grotesk-display-pro.symbols_0647d4455d.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 2660
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/53e2d229-a577-4be1-ab95-07687ab57be1/v1/neue-haas-grotesk-display-pro.symbols.woff2",
+      "local": "assets/fonts/neue-haas-grotesk-display-pro.symbols_5d7fad8a52.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 2660
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/ece0474a-cd15-4fe2-8275-97301e22188b/v1/neue-haas-grotesk-display-pro.symbols.woff2",
+      "local": "assets/fonts/neue-haas-grotesk-display-pro.symbols_d59c3607ed.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 2648
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/29384c45-df1d-4d28-a0c3-3ed95c653ff4/v1/neue-haas-grotesk-display-pro.symbols.woff2",
+      "local": "assets/fonts/neue-haas-grotesk-display-pro.symbols_1e31f41d28.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 2648
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/08c28227-89bc-4d4d-918c-b12a84ed4c47/v1/neue-haas-grotesk-display-pro.symbols.woff2",
+      "local": "assets/fonts/neue-haas-grotesk-display-pro.symbols_291313cbc4.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 2668
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/d0521924-fc64-47a2-a857-2cbdc0fad5c8/v1/neue-haas-grotesk-display-pro.latin-ext.woff2",
+      "local": "assets/fonts/neue-haas-grotesk-display-pro.latin-ext_e92d2bf057.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 12016
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/d9d8c7b2-e369-4301-89a8-73dc91d3b435/v1/neue-haas-grotesk-display-pro.latin-ext.woff2",
+      "local": "assets/fonts/neue-haas-grotesk-display-pro.latin-ext_81d3972360.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 12548
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/53e2d229-a577-4be1-ab95-07687ab57be1/v1/neue-haas-grotesk-display-pro.latin-ext.woff2",
+      "local": "assets/fonts/neue-haas-grotesk-display-pro.latin-ext_edd9243363.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 11552
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/ece0474a-cd15-4fe2-8275-97301e22188b/v1/neue-haas-grotesk-display-pro.latin-ext.woff2",
+      "local": "assets/fonts/neue-haas-grotesk-display-pro.latin-ext_19e3e474e4.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 12340
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/29384c45-df1d-4d28-a0c3-3ed95c653ff4/v1/neue-haas-grotesk-display-pro.latin-ext.woff2",
+      "local": "assets/fonts/neue-haas-grotesk-display-pro.latin-ext_14658eaea8.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 12912
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/08c28227-89bc-4d4d-918c-b12a84ed4c47/v1/neue-haas-grotesk-display-pro.latin-ext.woff2",
+      "local": "assets/fonts/neue-haas-grotesk-display-pro.latin-ext_eff749f70a.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 13464
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/d0521924-fc64-47a2-a857-2cbdc0fad5c8/v1/neue-haas-grotesk-display-pro.latin.woff2",
+      "local": "assets/fonts/neue-haas-grotesk-display-pro.latin_40bc823393.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 20648
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/d9d8c7b2-e369-4301-89a8-73dc91d3b435/v1/neue-haas-grotesk-display-pro.latin.woff2",
+      "local": "assets/fonts/neue-haas-grotesk-display-pro.latin_19f0959053.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 21840
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/53e2d229-a577-4be1-ab95-07687ab57be1/v1/neue-haas-grotesk-display-pro.latin.woff2",
+      "local": "assets/fonts/neue-haas-grotesk-display-pro.latin_9d3763d26b.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 19924
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/ece0474a-cd15-4fe2-8275-97301e22188b/v1/neue-haas-grotesk-display-pro.latin.woff2",
+      "local": "assets/fonts/neue-haas-grotesk-display-pro.latin_883a835aa1.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 21360
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/29384c45-df1d-4d28-a0c3-3ed95c653ff4/v1/neue-haas-grotesk-display-pro.latin.woff2",
+      "local": "assets/fonts/neue-haas-grotesk-display-pro.latin_f6f0b5b778.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 21724
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/08c28227-89bc-4d4d-918c-b12a84ed4c47/v1/neue-haas-grotesk-display-pro.latin.woff2",
+      "local": "assets/fonts/neue-haas-grotesk-display-pro.latin_bd9a8daf2c.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 23272
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/8c415121-43c6-4dba-9e85-7657003c5930/v1/neue-haas-unica-pro.other.woff2",
+      "local": "assets/fonts/neue-haas-unica-pro.other_71b0dd968b.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 2796
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/eda34674-0930-47b8-96f6-7bd690facfee/v1/neue-haas-unica-pro.other.woff2",
+      "local": "assets/fonts/neue-haas-unica-pro.other_e3d69f06e8.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 3048
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/43aff0f4-50c1-48ba-babd-ee13cf442d34/v1/neue-haas-unica-pro.other.woff2",
+      "local": "assets/fonts/neue-haas-unica-pro.other_fc44d89c94.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 2876
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/094c6864-ba8f-453c-9b26-a04ee029be9d/v1/neue-haas-unica-pro.other.woff2",
+      "local": "assets/fonts/neue-haas-unica-pro.other_bc75b5f90d.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 3128
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/23d9b541-45f1-422f-87bf-62f129922a47/v1/neue-haas-unica-pro.other.woff2",
+      "local": "assets/fonts/neue-haas-unica-pro.other_23075f6ccb.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 2844
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/6aff27d1-fcc0-4982-bcb5-a078d69adeda/v1/neue-haas-unica-pro.other.woff2",
+      "local": "assets/fonts/neue-haas-unica-pro.other_baa535cb6f.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 3080
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/e3f3713c-72bd-4679-b0df-7d709c4ee5ac/v1/neue-haas-unica-pro.other.woff2",
+      "local": "assets/fonts/neue-haas-unica-pro.other_55548829e1.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 2892
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/392e787d-5362-48ab-b5a0-b697f8c542a4/v1/neue-haas-unica-pro.other.woff2",
+      "local": "assets/fonts/neue-haas-unica-pro.other_541acdef49.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 3128
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/8c415121-43c6-4dba-9e85-7657003c5930/v1/neue-haas-unica-pro.math.woff2",
+      "local": "assets/fonts/neue-haas-unica-pro.math_31a1a3d31c.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 1572
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/eda34674-0930-47b8-96f6-7bd690facfee/v1/neue-haas-unica-pro.math.woff2",
+      "local": "assets/fonts/neue-haas-unica-pro.math_2ef2905a56.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 1652
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/43aff0f4-50c1-48ba-babd-ee13cf442d34/v1/neue-haas-unica-pro.math.woff2",
+      "local": "assets/fonts/neue-haas-unica-pro.math_31dabaf9b2.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 1632
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/094c6864-ba8f-453c-9b26-a04ee029be9d/v1/neue-haas-unica-pro.math.woff2",
+      "local": "assets/fonts/neue-haas-unica-pro.math_8da96c56fb.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 1676
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/23d9b541-45f1-422f-87bf-62f129922a47/v1/neue-haas-unica-pro.math.woff2",
+      "local": "assets/fonts/neue-haas-unica-pro.math_200079b586.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 1604
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/6aff27d1-fcc0-4982-bcb5-a078d69adeda/v1/neue-haas-unica-pro.math.woff2",
+      "local": "assets/fonts/neue-haas-unica-pro.math_fed7ab8d21.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 1656
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/e3f3713c-72bd-4679-b0df-7d709c4ee5ac/v1/neue-haas-unica-pro.math.woff2",
+      "local": "assets/fonts/neue-haas-unica-pro.math_2b0d5df6f4.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 1616
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/392e787d-5362-48ab-b5a0-b697f8c542a4/v1/neue-haas-unica-pro.math.woff2",
+      "local": "assets/fonts/neue-haas-unica-pro.math_61896e97ca.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 1688
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/8c415121-43c6-4dba-9e85-7657003c5930/v1/neue-haas-unica-pro.latin-ext.woff2",
+      "local": "assets/fonts/neue-haas-unica-pro.latin-ext_c50a013d2a.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 6932
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/eda34674-0930-47b8-96f6-7bd690facfee/v1/neue-haas-unica-pro.latin-ext.woff2",
+      "local": "assets/fonts/neue-haas-unica-pro.latin-ext_22f899e8e5.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 7392
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/43aff0f4-50c1-48ba-babd-ee13cf442d34/v1/neue-haas-unica-pro.latin-ext.woff2",
+      "local": "assets/fonts/neue-haas-unica-pro.latin-ext_ba92e93932.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 6940
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/094c6864-ba8f-453c-9b26-a04ee029be9d/v1/neue-haas-unica-pro.latin-ext.woff2",
+      "local": "assets/fonts/neue-haas-unica-pro.latin-ext_8a5b2c81f5.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 7508
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/23d9b541-45f1-422f-87bf-62f129922a47/v1/neue-haas-unica-pro.latin-ext.woff2",
+      "local": "assets/fonts/neue-haas-unica-pro.latin-ext_2c18643291.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 6932
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/6aff27d1-fcc0-4982-bcb5-a078d69adeda/v1/neue-haas-unica-pro.latin-ext.woff2",
+      "local": "assets/fonts/neue-haas-unica-pro.latin-ext_e9e5df1b84.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 7456
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/e3f3713c-72bd-4679-b0df-7d709c4ee5ac/v1/neue-haas-unica-pro.latin-ext.woff2",
+      "local": "assets/fonts/neue-haas-unica-pro.latin-ext_18e93195bb.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 6864
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/392e787d-5362-48ab-b5a0-b697f8c542a4/v1/neue-haas-unica-pro.latin-ext.woff2",
+      "local": "assets/fonts/neue-haas-unica-pro.latin-ext_1423519b5c.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 7492
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/8c415121-43c6-4dba-9e85-7657003c5930/v1/neue-haas-unica-pro.latin.woff2",
+      "local": "assets/fonts/neue-haas-unica-pro.latin_f35ebac1e7.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 11860
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/eda34674-0930-47b8-96f6-7bd690facfee/v1/neue-haas-unica-pro.latin.woff2",
+      "local": "assets/fonts/neue-haas-unica-pro.latin_b744d4203e.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 12880
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/43aff0f4-50c1-48ba-babd-ee13cf442d34/v1/neue-haas-unica-pro.latin.woff2",
+      "local": "assets/fonts/neue-haas-unica-pro.latin_f15382eab9.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 12088
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/094c6864-ba8f-453c-9b26-a04ee029be9d/v1/neue-haas-unica-pro.latin.woff2",
+      "local": "assets/fonts/neue-haas-unica-pro.latin_d231eafd52.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 13344
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/23d9b541-45f1-422f-87bf-62f129922a47/v1/neue-haas-unica-pro.latin.woff2",
+      "local": "assets/fonts/neue-haas-unica-pro.latin_f37ed5087e.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 12004
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/6aff27d1-fcc0-4982-bcb5-a078d69adeda/v1/neue-haas-unica-pro.latin.woff2",
+      "local": "assets/fonts/neue-haas-unica-pro.latin_4b73e907c5.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 13252
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/e3f3713c-72bd-4679-b0df-7d709c4ee5ac/v1/neue-haas-unica-pro.latin.woff2",
+      "local": "assets/fonts/neue-haas-unica-pro.latin_31611f28da.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 12076
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/392e787d-5362-48ab-b5a0-b697f8c542a4/v1/neue-haas-unica-pro.latin.woff2",
+      "local": "assets/fonts/neue-haas-unica-pro.latin_f6ee63aee4.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 13212
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/ibmplexsans/v22/zYXzKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1syxRKYbSB4ZhRNU.woff2",
+      "local": "assets/fonts/zYXzKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1syxRKYbSB4ZhRNU_45eb344f04.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 9612
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/ibmplexsans/v22/zYXxKVElMYYaJe8bpLHnCwDKhdTEG46kmUZQCX598fQbGYvYAKRjdNS7Iw.woff2",
+      "local": "assets/fonts/zYXxKVElMYYaJe8bpLHnCwDKhdTEG46kmUZQCX598fQbGYvYAKRjdNS7Iw_b343056914.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 11268
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/ibmplexsans/v22/zYXzKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1syxTKYbSB4ZhRNU.woff2",
+      "local": "assets/fonts/zYXzKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1syxTKYbSB4ZhRNU_f746981056.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 19684
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/ibmplexsans/v22/zYXxKVElMYYaJe8bpLHnCwDKhdTEG46kmUZQCX598fQbGYnYAKRjdNS7Iw.woff2",
+      "local": "assets/fonts/zYXxKVElMYYaJe8bpLHnCwDKhdTEG46kmUZQCX598fQbGYnYAKRjdNS7Iw_d6a56f6875.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 22672
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/ibmplexsans/v22/zYXzKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1syxaKYbSB4ZhRNU.woff2",
+      "local": "assets/fonts/zYXzKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1syxaKYbSB4ZhRNU_5a2c71677d.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 25408
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/ibmplexsans/v22/zYXxKVElMYYaJe8bpLHnCwDKhdTEG46kmUZQCX598fQbGYDYAKRjdNS7Iw.woff2",
+      "local": "assets/fonts/zYXxKVElMYYaJe8bpLHnCwDKhdTEG46kmUZQCX598fQbGYDYAKRjdNS7Iw_d91d05e7d5.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 28508
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/ibmplexsans/v22/zYXzKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1syxdKYbSB4ZhRNU.woff2",
+      "local": "assets/fonts/zYXzKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1syxdKYbSB4ZhRNU_48a01431c4.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 16296
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/ibmplexsans/v22/zYXxKVElMYYaJe8bpLHnCwDKhdTEG46kmUZQCX598fQbGYfYAKRjdNS7Iw.woff2",
+      "local": "assets/fonts/zYXxKVElMYYaJe8bpLHnCwDKhdTEG46kmUZQCX598fQbGYfYAKRjdNS7Iw_f3d977a03f.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 18572
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/ibmplexsans/v22/zYXzKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1syxQKYbSB4ZhRNU.woff2",
+      "local": "assets/fonts/zYXzKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1syxQKYbSB4ZhRNU_79c61065e4.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 25868
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/ibmplexsans/v22/zYXxKVElMYYaJe8bpLHnCwDKhdTEG46kmUZQCX598fQbGYrYAKRjdNS7Iw.woff2",
+      "local": "assets/fonts/zYXxKVElMYYaJe8bpLHnCwDKhdTEG46kmUZQCX598fQbGYrYAKRjdNS7Iw_a31c01abf9.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 28764
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/ibmplexsans/v22/zYXzKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1syxeKYbSB4Zh.woff2",
+      "local": "assets/fonts/zYXzKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1syxeKYbSB4Zh_3a08583572.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 40240
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/ibmplexsans/v22/zYXxKVElMYYaJe8bpLHnCwDKhdTEG46kmUZQCX598fQbGYTYAKRjdNQ.woff2",
+      "local": "assets/fonts/zYXxKVElMYYaJe8bpLHnCwDKhdTEG46kmUZQCX598fQbGYTYAKRjdNQ_0475e5a62c.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 44916
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/wixmadefortext/v13/-W_lXI_oSymQ8Qj-Apx3HGN_Hu1RZioR5y4coj8y0A.woff2",
+      "local": "assets/fonts/-W_lXI_oSymQ8Qj-Apx3HGN_Hu1RZioR5y4coj8y0A_041de6f987.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 7564
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/wixmadefortext/v13/-W_jXI_oSymQ8Qj-Apx3HGN_Hu1RZiAh6iQbgD0C0fp2.woff2",
+      "local": "assets/fonts/-W_jXI_oSymQ8Qj-Apx3HGN_Hu1RZiAh6iQbgD0C0fp2_6094c6b524.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 3220
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/wixmadefortext/v13/-W_lXI_oSymQ8Qj-Apx3HGN_Hu1RZigR5y4coj8y0A.woff2",
+      "local": "assets/fonts/-W_lXI_oSymQ8Qj-Apx3HGN_Hu1RZigR5y4coj8y0A_7a6a8941f9.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 2064
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/wixmadefortext/v13/-W_jXI_oSymQ8Qj-Apx3HGN_Hu1RZiAh6CQbgD0C0fp2.woff2",
+      "local": "assets/fonts/-W_jXI_oSymQ8Qj-Apx3HGN_Hu1RZiAh6CQbgD0C0fp2_570fbefbd5.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 816
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/wixmadefortext/v13/-W_lXI_oSymQ8Qj-Apx3HGN_Hu1RZiER5y4coj8y0A.woff2",
+      "local": "assets/fonts/-W_lXI_oSymQ8Qj-Apx3HGN_Hu1RZiER5y4coj8y0A_7857c0bb1a.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 14120
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/wixmadefortext/v13/-W_jXI_oSymQ8Qj-Apx3HGN_Hu1RZiAh4SQbgD0C0fp2.woff2",
+      "local": "assets/fonts/-W_jXI_oSymQ8Qj-Apx3HGN_Hu1RZiAh4SQbgD0C0fp2_2cf368d5f9.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 860
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/wixmadefortext/v13/-W_lXI_oSymQ8Qj-Apx3HGN_Hu1RZisR5y4coj8y0A.woff2",
+      "local": "assets/fonts/-W_lXI_oSymQ8Qj-Apx3HGN_Hu1RZisR5y4coj8y0A_2c70a6fe38.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 12628
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/wixmadefortext/v13/-W_jXI_oSymQ8Qj-Apx3HGN_Hu1RZiAh6yQbgD0C0fp2.woff2",
+      "local": "assets/fonts/-W_jXI_oSymQ8Qj-Apx3HGN_Hu1RZiAh6yQbgD0C0fp2_4d8a8a6a34.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 11912
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/wixmadefortext/v13/-W_lXI_oSymQ8Qj-Apx3HGN_Hu1RZiUR5y4coj8.woff2",
+      "local": "assets/fonts/-W_lXI_oSymQ8Qj-Apx3HGN_Hu1RZiUR5y4coj8_3d185e1513.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 20260
+    },
+    {
+      "url": "https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/wixmadefortext/v13/-W_jXI_oSymQ8Qj-Apx3HGN_Hu1RZiAh5SQbgD0C0Q.woff2",
+      "local": "assets/fonts/-W_jXI_oSymQ8Qj-Apx3HGN_Hu1RZiAh5SQbgD0C0Q_882c2257a3.woff2",
+      "category": "fonts",
+      "mime": "font/woff2",
+      "bytes": 21444
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/core-js-bundle@3.2.1/minified.js",
+      "local": "assets/js/minified_cc5dbdbdf6.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 137771
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/focus-within-polyfill@5.0.9/dist/focus-within-polyfill.js",
+      "local": "assets/js/focus-within-polyfill_7429be62a7.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1171
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderboltBuilder/rb_wixui.thunderboltBuilder_bootstrap.88281e94.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderboltBuilder_bootstrap.88281e94.bundle.min_98670650a4.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2394
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderboltBuilder/rb_wixui.thunderboltBuilder[BackgroundGroup].603533af.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderboltBuilder_BackgroundGroup_.603533af.bundle.min_d820d5fda2.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 13285
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderboltBuilder/rb_wixui.thunderboltBuilder[Anchor].e8e6e4d1.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderboltBuilder_Anchor_.e8e6e4d1.bundle.min_4d46e5c20e.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1966
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderboltBuilder/rb_wixui.thunderboltBuilder[SkipToContentButton].8f5f48fe.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderboltBuilder_SkipToContentButton_.8f5f48fe.bundle.min_158d3258df.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2172
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderboltBuilder/rb_wixui.thunderboltBuilder[PageGroup].d55a4944.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderboltBuilder_PageGroup_.d55a4944.bundle.min_50deb62574.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 13608
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderboltBuilder/rb_wixui.thunderboltBuilder[HeaderContainer_TransparentScreen].62251e35.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderboltBuilder_HeaderContainer_TransparentScreen_.62251e3_1c8fb9a678.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 8523
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderboltBuilder/rb_wixui.thunderboltBuilder[FooterContainer_TransparentScreen].d1522307.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderboltBuilder_FooterContainer_TransparentScreen_.d152230_6c18517511.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 4793
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderboltBuilder/rb_wixui.thunderboltBuilder[Page_ResponsivePageWithColorBG].ff2a538a.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderboltBuilder_Page_ResponsivePageWithColorBG_.ff2a538a.b_6e3682607f.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2539
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderboltBuilder/rb_wixui.thunderboltBuilder[ResponsiveContainer].0ff9e989.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderboltBuilder_ResponsiveContainer_.0ff9e989.bundle.min_6b1e679ef1.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 3406
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderboltBuilder/rb_wixui.thunderboltBuilder[PinnedLayer].d3962438.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderboltBuilder_PinnedLayer_.d3962438.bundle.min_e7fa7f1918.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2153
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderboltBuilder/rb_wixui.thunderboltBuilder[RefComponent].2f9a6921.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderboltBuilder_RefComponent_.2f9a6921.bundle.min_18428636a0.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2343
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderboltBuilder/wix-image-kit.ee1be475.bundle.min.js",
+      "local": "assets/js/wix-image-kit.ee1be475.bundle.min_7e2bcf7a52.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 26322
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderboltBuilder/htmlparser2-xml.4f17eecc.bundle.min.js",
+      "local": "assets/js/htmlparser2-xml.4f17eecc.bundle.min_be022be6ea.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 50720
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderboltBuilder/rb_wixui.thunderboltBuilder[PageSections].6158d680.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderboltBuilder_PageSections_.6158d680.bundle.min_992682b232.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2175
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderboltBuilder/rb_wixui.thunderboltBuilder[HeaderSection].9e7e40db.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderboltBuilder_HeaderSection_.9e7e40db.bundle.min_e79eed96db.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 19363
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderboltBuilder/rb_wixui.thunderboltBuilder[Section].8f746cd2.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderboltBuilder_Section_.8f746cd2.bundle.min_66ccf66adc.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 16319
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderboltBuilder/rb_wixui.thunderboltBuilder[FooterSection].4738c40b.bundle.min.js",
+      "local": "assets/js/rb_wixui.thunderboltBuilder_FooterSection_.4738c40b.bundle.min_2af43d1962.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 15922
+    },
+    {
+      "url": "https://browser.sentry-cdn.com/7.120.3/modulemetadata.es5.min.js",
+      "local": "assets/js/modulemetadata.es5.min_7867333024.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 3323
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/react@18.3.1/umd/react.production.min.js",
+      "local": "assets/js/react.production.min_a3d104366c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 10751
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/react-dom@18.3.1/umd/react-dom.production.min.js",
+      "local": "assets/js/react-dom.production.min_23f284a3a3.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 131835
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/lodash@4.18.1/lodash.min.js",
+      "local": "assets/js/lodash.min_4e41d11c55.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 73234
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.cd47ac5f.bundle.min.js",
+      "local": "assets/js/thunderbolt-commons.cd47ac5f.bundle.min_78132d45d2.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 157398
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/main.34f6665a.bundle.min.js",
+      "local": "assets/js/main.34f6665a.bundle.min_d65dae7f0c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 230261
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/main.renderer.b325a058.bundle.min.js",
+      "local": "assets/js/main.renderer.b325a058.bundle.min_9f8dedd221.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 150
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/browser-deprecation.bundle.es5.js",
+      "local": "assets/js/browser-deprecation.bundle.es5_80b3562822.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 3828
+    },
+    {
+      "url": "https://static.parastorage.com/services/tag-manager-client/1.1075.0/siteTags.bundle.min.js",
+      "local": "assets/js/siteTags.bundle.min_a2c4f022a5.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 9416
+    },
+    {
+      "url": "https://static.parastorage.com/services/interact/dist/interact.umd.min.js",
+      "local": "assets/js/interact.umd.min_c45afe9d7c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 147713
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/servicesManager.81227f1c.chunk.min.js",
+      "local": "assets/js/servicesManager.81227f1c.chunk.min_344381d86e.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 9076
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/servicesManagerReact.5998b201.chunk.min.js",
+      "local": "assets/js/servicesManagerReact.5998b201.chunk.min_e3ddd45a77.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 12933
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-components-registry-builder.05d2505d.chunk.min.js",
+      "local": "assets/js/thunderbolt-components-registry-builder.05d2505d.chunk.min_aa1bb26f48.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 24285
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_2.c60c4730.chunk.min.js",
+      "local": "assets/js/group_2.c60c4730.chunk.min_0008867856.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 54456
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/assetsLoader.6bffd761.chunk.min.js",
+      "local": "assets/js/assetsLoader.6bffd761.chunk.min_75f038062a.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 6951
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_3.dd33e4a3.chunk.min.js",
+      "local": "assets/js/group_3.dd33e4a3.chunk.min_14b752ab76.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 72300
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/businessLogger.377a70ea.chunk.min.js",
+      "local": "assets/js/businessLogger.377a70ea.chunk.min_dcc6f7e695.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 543
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/consentPolicy.e91bc7e5.chunk.min.js",
+      "local": "assets/js/consentPolicy.e91bc7e5.chunk.min_3a771b903d.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 540
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/domSelectors.1772351a.chunk.min.js",
+      "local": "assets/js/domSelectors.1772351a.chunk.min_080016be64.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1467
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_7.9cd3d937.chunk.min.js",
+      "local": "assets/js/group_7.9cd3d937.chunk.min_a01ff5e23d.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 17169
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/ooi.35dd0965.chunk.min.js",
+      "local": "assets/js/ooi.35dd0965.chunk.min_270c03f831.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 449
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/protectedPages.686e2c1a.chunk.min.js",
+      "local": "assets/js/protectedPages.686e2c1a.chunk.min_d1c3c190e4.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 5319
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/renderer.e30669d5.chunk.min.js",
+      "local": "assets/js/renderer.e30669d5.chunk.min_10a199c73f.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 13151
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_4.e486b681.chunk.min.js",
+      "local": "assets/js/group_4.e486b681.chunk.min_c5ad2bd4dd.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 40141
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/router.7550ec16.chunk.min.js",
+      "local": "assets/js/router.7550ec16.chunk.min_3cc4078a3d.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2162
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/serviceRegistrar.12680266.chunk.min.js",
+      "local": "assets/js/serviceRegistrar.12680266.chunk.min_53db6bc69a.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 16353
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/stores.271cca5b.chunk.min.js",
+      "local": "assets/js/stores.271cca5b.chunk.min_f25e93eeb4.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 6716
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/usedPlatformApis.2fac58dc.chunk.min.js",
+      "local": "assets/js/usedPlatformApis.2fac58dc.chunk.min_f79819c44e.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 691
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/warmupData.8df801a8.chunk.min.js",
+      "local": "assets/js/warmupData.8df801a8.chunk.min_844a47dee8.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 378
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/componentsLoader.037bc6b5.chunk.min.js",
+      "local": "assets/js/componentsLoader.037bc6b5.chunk.min_8ee9bf1d4a.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 543
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/accessibilityBrowserZoom.69ca8cc9.chunk.min.js",
+      "local": "assets/js/accessibilityBrowserZoom.69ca8cc9.chunk.min_f4f2cd8be8.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 7352
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/appMonitoring.990fa541.chunk.min.js",
+      "local": "assets/js/appMonitoring.990fa541.chunk.min_f81cfaf0fd.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 21015
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/builderComponent.f92401c6.chunk.min.js",
+      "local": "assets/js/builderComponent.f92401c6.chunk.min_18f4e29c06.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 16532
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/builderContextProviders.3ae6e37a.chunk.min.js",
+      "local": "assets/js/builderContextProviders.3ae6e37a.chunk.min_64d9a6c401.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 34671
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/builderModuleLoader.695113e5.chunk.min.js",
+      "local": "assets/js/builderModuleLoader.695113e5.chunk.min_e3bbf36231.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 7008
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/businessLoggerService.edaa8528.chunk.min.js",
+      "local": "assets/js/businessLoggerService.edaa8528.chunk.min_eef13a0f74.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2877
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_5.79994512.chunk.min.js",
+      "local": "assets/js/group_5.79994512.chunk.min_4dfd503c22.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 37976
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/consentPolicyService.58d2211a.chunk.min.js",
+      "local": "assets/js/consentPolicyService.58d2211a.chunk.min_ec4c31aef4.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 3975
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/cyclicTabbingService.10f63a43.chunk.min.js",
+      "local": "assets/js/cyclicTabbingService.10f63a43.chunk.min_3fd5148f28.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2142
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/cyclicTabbing.fb257bad.chunk.min.js",
+      "local": "assets/js/cyclicTabbing.fb257bad.chunk.min_fde3588f5e.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 767
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/domStore.14823c1f.chunk.min.js",
+      "local": "assets/js/domStore.14823c1f.chunk.min_30a82eab80.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 32165
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_38.2fb20b49.chunk.min.js",
+      "local": "assets/js/group_38.2fb20b49.chunk.min_551b720af0.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 4885
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/dynamicPages.4ff4e6f5.chunk.min.js",
+      "local": "assets/js/dynamicPages.4ff4e6f5.chunk.min_a93807886d.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 347
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_45.c1314395.chunk.min.js",
+      "local": "assets/js/group_45.c1314395.chunk.min_65fd7fb1b2.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 827
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/environmentService.28f65978.chunk.min.js",
+      "local": "assets/js/environmentService.28f65978.chunk.min_11be74d283.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2941
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/environmentWixCodeSdk.566c4d0f.chunk.min.js",
+      "local": "assets/js/environmentWixCodeSdk.566c4d0f.chunk.min_a526118280.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 503
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/environment.caa69c37.chunk.min.js",
+      "local": "assets/js/environment.caa69c37.chunk.min_41eb37e520.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 536
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/fedopsLoggerService.4614d8a8.chunk.min.js",
+      "local": "assets/js/fedopsLoggerService.4614d8a8.chunk.min_70f0a4583d.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 935
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/headAppenderService.00916510.chunk.min.js",
+      "local": "assets/js/headAppenderService.00916510.chunk.min_d285a38ef0.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1385
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/interactions.118aa7c6.chunk.min.js",
+      "local": "assets/js/interactions.118aa7c6.chunk.min_49fb3c4a99.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 166823
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_20.6f996b60.chunk.min.js",
+      "local": "assets/js/group_20.6f996b60.chunk.min_024adf56f3.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 8666
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/popups.601233da.chunk.min.js",
+      "local": "assets/js/popups.601233da.chunk.min_5c4573a597.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1388
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/linkUtilsService.5afc7cff.chunk.min.js",
+      "local": "assets/js/linkUtilsService.5afc7cff.chunk.min_1b9221976e.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 10107
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/tslib.inline.0a404b36.chunk.min.js",
+      "local": "assets/js/tslib.inline.0a404b36.chunk.min_484d09994c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 11256
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/mpaNavigation.bd7e02b4.chunk.min.js",
+      "local": "assets/js/mpaNavigation.bd7e02b4.chunk.min_73339b8202.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 7513
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_42.0f2aa560.chunk.min.js",
+      "local": "assets/js/group_42.0f2aa560.chunk.min_1537b6821e.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 8319
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/multilingualService.0026c748.chunk.min.js",
+      "local": "assets/js/multilingualService.0026c748.chunk.min_2f88c47f9d.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2874
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/namedSignalsService.5aceb0cf.chunk.min.js",
+      "local": "assets/js/namedSignalsService.5aceb0cf.chunk.min_88001130db.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1962
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/pagesService.bca8833e.chunk.min.js",
+      "local": "assets/js/pagesService.bca8833e.chunk.min_795b23149b.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1644
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/panorama.a27650b3.chunk.min.js",
+      "local": "assets/js/panorama.a27650b3.chunk.min_9dd4c44bf0.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1020
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/provideComponentService.515f7001.chunk.min.js",
+      "local": "assets/js/provideComponentService.515f7001.chunk.min_d26306af59.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1023
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/provideCssService.fa245103.chunk.min.js",
+      "local": "assets/js/provideCssService.fa245103.chunk.min_3b4eb572c1.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 986
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/rendererConfigurationService.7cff10b2.chunk.min.js",
+      "local": "assets/js/rendererConfigurationService.7cff10b2.chunk.min_059a78f000.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1306
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/routerFetch.0667279b.chunk.min.js",
+      "local": "assets/js/routerFetch.0667279b.chunk.min_0601363c48.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 48843
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/seoService.9b4a9768.chunk.min.js",
+      "local": "assets/js/seoService.9b4a9768.chunk.min_34989fed12.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1511
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_6.5f7b0030.chunk.min.js",
+      "local": "assets/js/group_6.5f7b0030.chunk.min_e973b170a3.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 252702
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/siteBusinessLoggerService.3147bb97.chunk.min.js",
+      "local": "assets/js/siteBusinessLoggerService.3147bb97.chunk.min_3b9ec44c15.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2553
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/siteConfigurationService.8afe2398.chunk.min.js",
+      "local": "assets/js/siteConfigurationService.8afe2398.chunk.min_dd0a823102.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 980
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/siteDeviceInfoService.bc4bf1f0.chunk.min.js",
+      "local": "assets/js/siteDeviceInfoService.bc4bf1f0.chunk.min_a5790e0ad0.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1203
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/siteEditorContextService.e30bd7ed.chunk.min.js",
+      "local": "assets/js/siteEditorContextService.e30bd7ed.chunk.min_c1d01098f9.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1090
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/siteExperimentsService.aa6444d7.chunk.min.js",
+      "local": "assets/js/siteExperimentsService.aa6444d7.chunk.min_363b7fa668.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1055
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/siteInteractionsService.b652bae7.chunk.min.js",
+      "local": "assets/js/siteInteractionsService.b652bae7.chunk.min_20d14bd550.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 151073
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/siteLocaleService.f18e93f1.chunk.min.js",
+      "local": "assets/js/siteLocaleService.f18e93f1.chunk.min_18d6137c70.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1484
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/siteMembersWixCodeSdk.143b2c98.chunk.min.js",
+      "local": "assets/js/siteMembersWixCodeSdk.143b2c98.chunk.min_7b4bfc8967.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 32414
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_9.f1ec97ea.chunk.min.js",
+      "local": "assets/js/group_9.f1ec97ea.chunk.min_a4169fe84a.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 63690
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/siteMembers.b1553e13.chunk.min.js",
+      "local": "assets/js/siteMembers.b1553e13.chunk.min_a0f7d2cb76.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 68665
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/sitePagesService.7bca5594.chunk.min.js",
+      "local": "assets/js/sitePagesService.7bca5594.chunk.min_a289e86a50.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1575
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/siteProvideCssService.f523ac22.chunk.min.js",
+      "local": "assets/js/siteProvideCssService.f523ac22.chunk.min_47eec2d068.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 979
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/siteRendererConfigurationService.6edf936d.chunk.min.js",
+      "local": "assets/js/siteRendererConfigurationService.6edf936d.chunk.min_d5c49e3b0e.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1782
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/siteRenderingContextService.7bac8071.chunk.min.js",
+      "local": "assets/js/siteRenderingContextService.7bac8071.chunk.min_3b3131b2ae.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 904
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/siteScrollBlockerService.a9e3391a.chunk.min.js",
+      "local": "assets/js/siteScrollBlockerService.a9e3391a.chunk.min_6721faf6a6.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 4316
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/siteScrollBlocker.0d237009.chunk.min.js",
+      "local": "assets/js/siteScrollBlocker.0d237009.chunk.min_8ebe88c6dc.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 480
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/siteSiteScrollBlockerService.24277f56.chunk.min.js",
+      "local": "assets/js/siteSiteScrollBlockerService.24277f56.chunk.min_9ca2c11d30.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 3824
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/siteTabbingService.aa585a3a.chunk.min.js",
+      "local": "assets/js/siteTabbingService.aa585a3a.chunk.min_199f036fb2.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1741
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/siteUrlService.5a6b3747.chunk.min.js",
+      "local": "assets/js/siteUrlService.5a6b3747.chunk.min_d7a8260bff.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1248
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/speculationRules.59e08197.chunk.min.js",
+      "local": "assets/js/speculationRules.59e08197.chunk.min_3d37f792f5.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1817
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/ssrCache.f7fb72e6.chunk.min.js",
+      "local": "assets/js/ssrCache.f7fb72e6.chunk.min_9f70493d63.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1970
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/styleUtilsService.b6faad09.chunk.min.js",
+      "local": "assets/js/styleUtilsService.b6faad09.chunk.min_e6d1ff0307.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1607
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/urlService.0802fcc3.chunk.min.js",
+      "local": "assets/js/urlService.0802fcc3.chunk.min_97659a80dc.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 3848
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_22.b6fd6609.chunk.min.js",
+      "local": "assets/js/group_22.b6fd6609.chunk.min_5fa3754fc9.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2551
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/platform.a007cd91.chunk.min.js",
+      "local": "assets/js/platform.a007cd91.chunk.min_550c4637c9.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 7407
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/reporter-api.9a0bba7d.chunk.min.js",
+      "local": "assets/js/reporter-api.9a0bba7d.chunk.min_6f96402fa4.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 37312
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_0.b58e75e0.chunk.min.js",
+      "local": "assets/js/group_0.b58e75e0.chunk.min_64e279ac0b.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1131
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/accessibility.e4888b8e.chunk.min.js",
+      "local": "assets/js/accessibility.e4888b8e.chunk.min_b6db17ad78.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1123
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/navigation.fd6a4352.chunk.min.js",
+      "local": "assets/js/navigation.fd6a4352.chunk.min_702f06d64c.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1386
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/scrollToAnchor.a3fa83b7.chunk.min.js",
+      "local": "assets/js/scrollToAnchor.a3fa83b7.chunk.min_6ee9df3b9b.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 3542
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/windowScroll.94e57fc8.chunk.min.js",
+      "local": "assets/js/windowScroll.94e57fc8.chunk.min_b1199f81a0.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 463
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/sdkStateService.194fd3be.chunk.min.js",
+      "local": "assets/js/sdkStateService.194fd3be.chunk.min_e935153323.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1101
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/anchorsService.60fe6689.chunk.min.js",
+      "local": "assets/js/anchorsService.60fe6689.chunk.min_c6502acd86.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2521
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/siteMembersService.71b7de95.chunk.min.js",
+      "local": "assets/js/siteMembersService.71b7de95.chunk.min_b47e7851b8.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 2003
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/routerService.a203da20.chunk.min.js",
+      "local": "assets/js/routerService.a203da20.chunk.min_d77177d9eb.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 922
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/translationsService.5a9492ec.chunk.min.js",
+      "local": "assets/js/translationsService.5a9492ec.chunk.min_42738e8758.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1625
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_11.eeaeabf5.chunk.min.js",
+      "local": "assets/js/group_11.eeaeabf5.chunk.min_8c1f738e71.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 1078
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_24.5677d2a9.chunk.min.js",
+      "local": "assets/js/group_24.5677d2a9.chunk.min_5ef39743f4.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 3378
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/pageAnchors.c566b640.chunk.min.js",
+      "local": "assets/js/pageAnchors.c566b640.chunk.min_476dd84a46.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 462
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/imagePlaceholder.cfcbba70.chunk.min.js",
+      "local": "assets/js/imagePlaceholder.cfcbba70.chunk.min_512459d8e5.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 754
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/svgLoader.0b99cad8.chunk.min.js",
+      "local": "assets/js/svgLoader.0b99cad8.chunk.min_59df654b57.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 34376
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/motion.c8984600.chunk.min.js",
+      "local": "assets/js/motion.c8984600.chunk.min_7d2a0efac2.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 139397
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/GhostComp.56f311d7.chunk.min.js",
+      "local": "assets/js/GhostComp.56f311d7.chunk.min_ec7275d085.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 549
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-system-components/dist/_wix_d14decac-site-components/client/component-b7d85f9c-3e12-4a96-8d47-9f2c6b4d1e3a-bbnpUe2T.js",
+      "local": "assets/js/component-b7d85f9c-3e12-4a96-8d47-9f2c6b4d1e3a-bbnpUe2T_20a555c9ab.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 23094
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-react-components/dist/_wix_d14decac-site-components/client/component-1f0108be-06bb-4a81-9c55-a1cbd223926c-cqZW5PhC.js",
+      "local": "assets/js/component-1f0108be-06bb-4a81-9c55-a1cbd223926c-cqZW5PhC_df9426c394.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 22734
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-react-components/dist/_wix_d14decac-site-components/client/component-4190f51c-3836-49f6-8114-96219c165b30-Sn1sbaD8.js",
+      "local": "assets/js/component-4190f51c-3836-49f6-8114-96219c165b30-Sn1sbaD8_f527c32a14.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 50967
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-react-components/dist/_wix_d14decac-site-components/client/component-d2ff230a-71c3-4e58-8742-d68f69a2de0b-BbMsMG0W.js",
+      "local": "assets/js/component-d2ff230a-71c3-4e58-8742-d68f69a2de0b-BbMsMG0W_a659302b46.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 22723
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-react-components/dist/_wix_d14decac-site-components/client/component-3f27c3f4-5a2b-4b2c-9b14-05d9c0c6d5ec-h8M9ViCX.js",
+      "local": "assets/js/component-3f27c3f4-5a2b-4b2c-9b14-05d9c0c6d5ec-h8M9ViCX_58f0ac2e2a.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 169930
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-react-components/dist/_wix_d14decac-site-components/client/component-6f9890ba-d8b7-4b76-a6f4-de41bd150b68-B_YLM6ub.js",
+      "local": "assets/js/component-6f9890ba-d8b7-4b76-a6f4-de41bd150b68-B_YLM6ub_475a7e7d70.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 123212
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-react-components/dist/_wix_d14decac-site-components/client/component-4190f51c-3836-49f6-8114-96219c165b29-CPUCC3SP.js",
+      "local": "assets/js/component-4190f51c-3836-49f6-8114-96219c165b29-CPUCC3SP_9c9afdaf6f.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 131643
+    },
+    {
+      "url": "https://static.parastorage.com/services/members-area-components/dist/_wix_d14decac-site-components/client/component-27ddc52c-43ba-4709-87a4-877c65c51ca2-I9H72AJt.js",
+      "local": "assets/js/component-27ddc52c-43ba-4709-87a4-877c65c51ca2-I9H72AJt_dbeedb4a01.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 195544
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-system-components/dist/_wix_d14decac-site-components/client/component-81f3000f-f78a-459d-a044-59bd7a96092a-CeXujhdB.js",
+      "local": "assets/js/component-81f3000f-f78a-459d-a044-59bd7a96092a-CeXujhdB_4968d23a60.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 69719
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-react-components/dist/_wix_d14decac-site-components/client/component-4dbf752a-8a67-4149-87e7-6132bc25d3c2-BFAE2DBM.js",
+      "local": "assets/js/component-4dbf752a-8a67-4149-87e7-6132bc25d3c2-BFAE2DBM_6ec5b8240f.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 125665
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-react-components/dist/_wix_d14decac-site-components/client/component-4220f51c-7462-49f6-7352-14219c165b28-CgK5GU8M.js",
+      "local": "assets/js/component-4220f51c-7462-49f6-7352-14219c165b28-CgK5GU8M_657b5c8ac3.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 143229
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-react-components/dist/_wix_d14decac-site-components/client/component-0bfa7aab-081b-431b-adb2-1b1062e8f21a-CGLO32Mg.js",
+      "local": "assets/js/component-0bfa7aab-081b-431b-adb2-1b1062e8f21a-CGLO32Mg_44414216ca.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 59738
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-react-components/dist/_wix_d14decac-site-components/client/component-4bd21d9e-bbe1-4097-a519-9561b42f3578-BUSnU4NY.js",
+      "local": "assets/js/component-4bd21d9e-bbe1-4097-a519-9561b42f3578-BUSnU4NY_d482d0ed6f.js",
+      "category": "js",
+      "mime": "application/javascript",
+      "bytes": 143462
+    },
+    {
+      "url": "https://static.wixstatic.com/shapes/11062b_2a530a1b1a444e53833d0b5361978b08.svg",
+      "local": "assets/images/11062b_2a530a1b1a444e53833d0b5361978b08_ee1a17d1ec.svg",
+      "category": "images",
+      "mime": "image/svg+xml",
+      "bytes": 101470
+    },
+    {
+      "url": "https://static.wixstatic.com/shapes/11062b_d825da413852450493658d03d802eba3.svg",
+      "local": "assets/images/11062b_d825da413852450493658d03d802eba3_7201e2260a.svg",
+      "category": "images",
+      "mime": "image/svg+xml",
+      "bytes": 787
+    },
+    {
+      "url": "https://static.wixstatic.com/shapes/cf545b123b6e4523b228d62bfa0dea9b.svg",
+      "local": "assets/images/cf545b123b6e4523b228d62bfa0dea9b_b70ce3ac5e.svg",
+      "category": "images",
+      "mime": "image/svg+xml",
+      "bytes": 260
+    },
+    {
+      "url": "https://static.wixstatic.com/shapes/11062b_908abd4fdde04962bf9e5681c2c140c3.svg",
+      "local": "assets/images/11062b_908abd4fdde04962bf9e5681c2c140c3_6f41015637.svg",
+      "category": "images",
+      "mime": "image/svg+xml",
+      "bytes": 297
+    },
+    {
+      "url": "https://static.wixstatic.com/shapes/11062b_131b7f0b28a1444f9f5cac8cea0e079a.svg",
+      "local": "assets/images/11062b_131b7f0b28a1444f9f5cac8cea0e079a_64bc1f005f.svg",
+      "category": "images",
+      "mime": "image/svg+xml",
+      "bytes": 44290
+    },
+    {
+      "url": "https://static.wixstatic.com/shapes/7d72932f870a315ce1b030fcc29ba4e5.svg",
+      "local": "assets/images/7d72932f870a315ce1b030fcc29ba4e5_0ca7de789e.svg",
+      "category": "images",
+      "mime": "image/svg+xml",
+      "bytes": 335
+    },
+    {
+      "url": "https://static.wixstatic.com/shapes/11062b_702fac46ae484fc083b1aebda93bf545.svg",
+      "local": "assets/images/11062b_702fac46ae484fc083b1aebda93bf545_f691d7336b.svg",
+      "category": "images",
+      "mime": "image/svg+xml",
+      "bytes": 48157
+    },
+    {
+      "url": "https://static.wixstatic.com/shapes/b415b3aa36484054bb025c4ce56eec8e.svg",
+      "local": "assets/images/b415b3aa36484054bb025c4ce56eec8e_9f60996c94.svg",
+      "category": "images",
+      "mime": "image/svg+xml",
+      "bytes": 305
+    },
+    {
+      "url": "https://static.wixstatic.com/shapes/82fcd3_366fa2d88c2d4f00bca188880220525d.svg",
+      "local": "assets/images/82fcd3_366fa2d88c2d4f00bca188880220525d_3e5383429c.svg",
+      "category": "images",
+      "mime": "image/svg+xml",
+      "bytes": 67176
+    },
+    {
+      "url": "https://static.wixstatic.com/shapes/82fcd3_721d0e93e6824fe1a0ecc922c651afc4.svg",
+      "local": "assets/images/82fcd3_721d0e93e6824fe1a0ecc922c651afc4_642e8c6aa4.svg",
+      "category": "images",
+      "mime": "image/svg+xml",
+      "bytes": 846
+    },
+    {
+      "url": "https://static.wixstatic.com/shapes/82fcd3_440e71671a8d42c0b224f11e366d98c0.svg",
+      "local": "assets/images/82fcd3_440e71671a8d42c0b224f11e366d98c0_680f067a93.svg",
+      "category": "images",
+      "mime": "image/svg+xml",
+      "bytes": 847
+    },
+    {
+      "url": "https://static.wixstatic.com/shapes/11062b_78943faf37cf4962bd9daf2ae6e8460d.svg",
+      "local": "assets/images/11062b_78943faf37cf4962bd9daf2ae6e8460d_2fb541f589.svg",
+      "category": "images",
+      "mime": "image/svg+xml",
+      "bytes": 319
+    }
+  ],
+  "failed": [],
+  "removed_trackers": [],
+  "validation_errors": [],
+  "unresolved_external_dependencies": [],
+  "remote_hosts_mentioned_in_local_js_for_review": [
+    "${_}",
+    "${a?na",
+    "${a}",
+    "${a}.${n}",
+    "${b}",
+    "${c?ki",
+    "${c?va",
+    "${c?xa",
+    "${c}",
+    "${d?at",
+    "${d?mt",
+    "${e}",
+    "${e}.filesusr.com",
+    "${h?bt",
+    "${h}",
+    "${i}",
+    "${l?q",
+    "${l?z",
+    "${m}",
+    "${n}.${i}",
+    "${o?kt",
+    "${o?mt",
+    "${o?va",
+    "${t}",
+    "${t}.filesusr.com",
+    "${v}",
+    "${w}",
+    "${y}",
+    "a",
+    "a#б",
+    "a@b",
+    "api.whatsapp.com",
+    "axios-http.com",
+    "baseurl",
+    "bo.wix.com",
+    "cdn.jsdelivr.net",
+    "dev.wix.com",
+    "f31bc3de5f7f4f5290342dccc141bf4d@sentry-next.wixpress.com",
+    "files.wix.com",
+    "frog.wix.com",
+    "frog.wix.com?${n.join(",
+    "github.com",
+    "greensock.com",
+    "jedwatson.github.io",
+    "localhost",
+    "maps.google.com",
+    "npms.io",
+    "pages.parastorage.com",
+    "panorama.wixapps.net",
+    "picsum.photos",
+    "reactjs.org",
+    "rock.mit-license.org",
+    "sled.wix.dev",
+    "static.parastorage.com",
+    "static.wixstatic.com",
+    "unused.com",
+    "users.wix.com",
+    "video.wixstatic.com",
+    "www.google.com",
+    "www.wix.com",
+    "www.wixapis.com",
+    "yoursitename.wixsite.com",
+    "тест"
+  ]
+}
